@@ -1,6 +1,5 @@
 **Sistemas-y-Procesos-de-Negocio**
 ===
-44 preguntas
 
 Unidades 1 a 3
 ---
@@ -139,6 +138,15 @@ Unidades 1 a 3
 
 **40._ ¿Qué se conoce como cultura organizacional? Ejemplifique.**
 ---
+>**L**a cultura organizacional se refiere a la forma de relacionarse entre <br>
+sí que presenta una organización. Es el conjunto de valores, creencias,<br>
+normas, comportamientos y actitudes compartidas que la misma posee.  
+>>**P**or ejemplo, si los gerentes de una empresa han creado una clima de <br>
+confianza y respeto y cuentan con un modelo participativo de toma de <br>
+decisiones, habrá mucha comunicación hacia arriba ya que los empleados <br>
+proveen sus ideas para las decisiones.  
+>>>**E**n cambio, en un ambiente más estructurado y autoritario, la  <br>
+comunicación hacia también se da, pero es limitada.
 
 **41._ ¿Cuál es el concepto de poder? ¿Qué tipos de poder conoce?**
 ---
