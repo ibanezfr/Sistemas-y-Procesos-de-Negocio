@@ -139,29 +139,31 @@ Unidades 1 a 3
 **40. ¿Qué se conoce como cultura organizacional? Ejemplifique.**
 ---
 
->**L**a cultura organizacional se refiere a la forma de relacionarse entre <br>
+**L**a cultura organizacional se refiere a la forma de relacionarse entre <br>
 sí que presenta una organización. Es el conjunto de valores, creencias,<br>
 normas, comportamientos y actitudes compartidas que la misma posee.  
->>**P**or ejemplo, si los gerentes de una empresa han creado una clima de <br>
+
+**P**or ejemplo, si los gerentes de una empresa han creado una clima de <br>
 confianza y respeto y cuentan con un modelo participativo de toma de <br>
 decisiones, habrá mucha comunicación hacia arriba ya que los empleados <br>
 proveen sus ideas para las decisiones.  
->>>**E**n cambio, en un ambiente más estructurado y autoritario, la  <br>
+
+**E**n cambio, en un ambiente más estructurado y autoritario, la  <br>
 comunicación hacia también se da, pero es limitada.
 
-**41. ¿Cuál es el concepto de poder? ¿Qué tipos de poder conoce?**
+>**41. ¿Cuál es el concepto de poder? ¿Qué tipos de poder conoce?**
 ---
->Es la capcidad para ejercer influencia en los demás.<br>
+Es la capcidad para ejercer influencia en los demás.<br>
 Las 5 categorías de poder fueron propuestas por los psicólogos John French <br>
 y Bertram Raven en 1959:
 
->`1.` **Poder legítimo:** El poder legitimado se define como la autoridad <br>
+`1.` **Poder legítimo:** El poder legitimado se define como la autoridad <br>
 que ostenta un individuo o un grupo debido a su posición jerárquica y<br>
 responsabilidades dentro de una organización o sociedad. Este poder confiere<br>
 al titular una autoridad formal y delegada, como en el caso del CEO (Chief<br>
 Executive Officer) de una compañía.
 
->`2.` **Poder de referencia:** El poder de referencia se define como la <br>
+`2.` **Poder de referencia:** El poder de referencia se define como la <br>
 capacidad de ciertos individuos para persuadir o influir en otros, basándose<br>
 en su carisma y habilidades interpersonales. En este caso, la persona que <br>
 está bajo la influencia del poder toma al portador del poder como un modelo<br>
@@ -170,7 +172,7 @@ manifestarse en diversas situaciones, incluso en la relación con un CEO<br>
 (Chief Executive Officer) u otra figura de liderazgo.
 
 
->`3.` **Poder experto:** El poder experto es aquel que se deriva de las<br>
+`3.` **Poder experto:** El poder experto es aquel que se deriva de las<br>
 habilidades o pericia que poseen ciertas personas, y de la relevancia de<br>
 esas habilidades para las necesidades de la organización o sociedad en<br>
 cuestión. A diferencia de otras categorías de poder, este tipo de<br>
@@ -180,7 +182,7 @@ poder experto puede ser promovida y también poseer poder legítimo, ya que<br>
 su conocimiento especializado y habilidades valiosas pueden respaldar su<br>
 autoridad formal en una posición de liderazgo.
 
->`4.` **Poder de recompensa:** El poder de recompensa se fundamenta en la<br>
+`4.` **Poder de recompensa:** El poder de recompensa se fundamenta en la<br>
 capacidad del líder para otorgar beneficios materiales a los demás. Esto<br>
 implica la habilidad del individuo para ofrecer diversas recompensas, como<br>
 tiempo libre, regalos, promociones, aumentos salariales o incremento de<br>
@@ -193,7 +195,7 @@ negativo en la moral de los empleados y disminuir su productividad. Por <br>
 tanto, es esencial que el uso de este poder sea equitativo y transparente <br>
 para mantener un ambiente laboral saludable y motivador.<br>  
 
->`5.` **Poder de coacción:** El poder de coacción se fundamenta en la <br>
+`5.` **Poder de coacción:** El poder de coacción se fundamenta en la <br>
 capacidad de imponer castigos por parte de quien lo posee. Es similar a la <br>
 capacidad de negar o quitar recompensas, y su origen radica en el deseo de<br>
 aquellos que están sujetos a este poder de obtener recompensas valiosas, <br>
@@ -208,8 +210,74 @@ y el rendimiento de los empleados. Por tanto, es importante que los líderes <br
 utilicen este tipo de poder con cautela y consideren en su lugar enfoques <br>
 más constructivos para motivar y dirigir a su equipo.
 
-**42. ¿Cuál es el concepto de autoridad? ¿Qué tipos conoce?**
----
+
+<details>
+<summary>
+<strong>
+<h2>
+42. ¿Cuál es el concepto de autoridad? ¿Qué tipos conoce?
+</h2>
+</strong>
+</summary>
+
+La `autoridad` es una forma de poder.<br>
+Es la postesdad o facultad que tiene una persona sobre otra que le está <br>
+subordinada. Es la persona revestida de algún poder o mando.<br>
+
+__`Autoridad Formal`__:<br>
+- Es un tipo de poder que se asocia con la estructura y la administración de<br>
+las organizaciones.
+- Se basa en el reconocimiento de que el intento de los gerentes de influir <br>
+en los demás es legítimo.
+- Es un derecho que emana del puesto formal de la organización.
+- La autoridad formal proviene del poder.<br>
+
+>Según la `posición clásica`, la autoridad reside en el nivel más alto, y<br>
+desciende de nivel en nivel.<br>
+
+Ejemplo: 
+  - Dios
+    - Estado
+      - (Rey, Dictador, Presidente electo)
+        
+>Según la `posición de la aceptación`, la base de la autoridad está en el<br>
+`influido`  y no en el `influyente`, tiene más que ver con la obediencia,<br>
+porque el receptor `decide` <br>
+No quiere decir que la insubordinación y el caos son la norma de las<br>
+organizaciones.
+
+__`Autoridad Moral`__: <br>
+- Proviene de la lealtad de los demás hacia su líder, inspirada por su<br>
+integridad y congruencia.
+
+
+__`Autoridad Lineal`__:<br>
+- La "Autoridad Lineal" implica que los responsables tienen la directa<br>
+responsabilidad de alcanzar las metas y objetivos de la organización,<br>
+siguiendo la cadena de mando.
+- Este tipo de autoridad se fundamenta en el poder legítimo.<br>
+- Se establece una relación entre un superior y sus subordinados, con una <br>
+línea de mando claramente definida.
+- Las comunicaciones en este sistema suelen ser rígidas y unidireccionales,<br>
+fluyendo de manera descendente desde los superiores hacia los subordinados.<br>
+
+__`de Staff`__:<br>
+- El grupo de personas que ofrece asesoría y servicios a los gerentes de <br>
+línea es conocido como personal de apoyo. 
+- Su función es brindar recomendaciones y asesoramiento, sin tener la <br>
+autoridad para emitir órdenes a niveles inferiores o al ejecutivo al que <br>
+están asesorando.<br>
+
+__`Funcional`__:<br>
+- Los miembros del Staff carecen de autoridad formal independiente.
+- No obstante, pueden tener autoridad formal dentro de los límites establecidos
+con los miembros de la línea.
+- Esta autoridad formal se traduce en el derecho delegado a un individuo o
+departamento para controlar procesos, prácticas, políticas específicas u otros
+asuntos relacionados con las actividades realizadas por el personal de otros
+departamentos.
+
+</details>
 
 **43. Diferencia poder de autoridad y diga que significa delegar.**
 ---
