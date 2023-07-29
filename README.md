@@ -6,138 +6,138 @@ Unidades 1 a 3
 
 **1. Desarrolle los conceptos de Sistema, Subsistema y responda cuáles son los**
 <br>**parámetros de sistema, grafique.**
----
+
 
 **2. Qué es la TGS. Defina: Sistema, entropía, homeostasis y sinergía.**
----
+
 
 **3. Grafique y explique: la organización como sistema abierto.**
----
+
 
 **4. Concepto de cibernética, cite algún ejemplo de sistema cibernético.**
----
+
 
 **5. ¿Qué es un modelo? ¿para que se utilizan? De ejemplos.**
----
+
 
 **6. Defina información. ¿Cuál es la diferencia con DATO?**
----
+
 
 **7. Teoría de la comnicación. (Modelo de Shannon). Grafique el proceso de**<br>
 **comunicación.**
----
+
  
 **8. Modelo de Shannon. Grafique y describa sus componentes aplicando un caso**
 <br>**concreto: Teléfono, PC, etc.**
----
+
 
 **9. Mencione y describa los componentes del Sistema de comunicación según**<br>
 **Claude Shanon. Concepto de Redudancia.**
----
+
 
 **10. Explique la organización como sistema abierto y los conceptos de**<br>
 **Entropía y Sinergía.**
----
+
 
 **11. ¿Qué es la informática? Relación con las IT.**
----
+
 
 **12. ¿Qué es la informática? ¿Cómo incide en la Administración?**
----
+
 
 **13. ¿Qué es un sistema de información? ¿Qué tipos de SI conoce?**
----
+
 
 **14. ¿Cuáles son los parámetros de un sistema?**
----
+
 
 **15. Explique enfoque sistemático y enfoque analítico. ¿Se utilizan por**<br>
 **separado? ¿Se complementan?**
----
+
 
 **16. La organización como sistema abierto. Cite los modelos dados.**
----
+
 
 **17. De una definición de sistema. Grafique y ejemplifique.**
----
+
 
 **18. Defina a la organización como sistema abierto y de ejemplos.**
----
+
 
 **19. Defina a la organización como sistema social. ¿Qué elementos la**<br>
 **caracterizan? Ejemplifique.**
----
+
 
 **20. Desarrollo: Sistemas. Concepto. Tipos de Sistemas. Sus parámetros:**<br>
 **Entradas, Salidas, procesamiento, retroalimentación y ambiente.**
----
+
 
 **21. Describa brevemente el sistema Socio-técnico y su relación con la**<br>
 **eficiencia (Tavistock)...ver apunte.**
----
+
 
 **22. Diga que entiende usted por una orgazación, dé una definición y**<br>
 **ejemplos.**
----
+
 
 **23. Defina la Organización como un sistema socio-técnico. De ejemplos.**
----
+
 
 **24. Considerando que la empresa es un sistema abierto. Explique los**<br>
 **siguientes conceptos: Entorno o contexto (Clasificación y variables** <br>
 **principales) y retroalimentación.**<br>
----
+
 
 **25. ¿Qué tipos de organización conoce? Grafique.**
----
+
 
 **26. ¿Qué es una organización sin fines de lucro? Ejemplos.**
----
+
 
 **27. ¿Qué es una organización formal? ¿Informal?**
----
+
 
 **28. ¿Qué es una organización con fines de lucro? Ejemplos.**
----
+
 
 **29. ¿Qué es una organización centralizada? Ejemplo.**
----
+
 
 **30. ¿Qué es el espacio organizacional?**
----
+
 
 **31. Defina contexto organizacional. Ejemplos.**
----
+
 
 **32. ¿Qué marco normativo tienen las organizaciones?**
----
+
 
 **33. ¿Qué se conoce como cultura organizacional? Ejemplos.**
----
+
 
 **34. De un ejemplo de planificación. Meta y Objetivo.**
----
+
 
 **35. Proceso de planeamiento: desarrolle el concepto de planeamiento**<br>
 **estratégico y de planeamiento táctico. Diferencias.**
----
+
 
 **36. Desarrolle los siguientes conceptos: Departamentalización, delegación y**
 <br> **organigrama.**
----
+
 
 **37. Explique brevemente el concepto de Planeamiento, describa el proceso de**
 <br>**planeamiento y los niveles que le comprende.**
----
+
 
 **38. Describa y diferencie: Planeamiento estratégico, táctico y operativo.**
----
+
 
 **39. Concepto de Misión, Visión y Valores.**
----
+
 
 **40. ¿Qué se conoce como cultura organizacional? Ejemplifique.**
----
+
 
 **L**a cultura organizacional se refiere a la forma de relacionarse entre <br>
 sí que presenta una organización. Es el conjunto de valores, creencias,<br>
@@ -151,8 +151,11 @@ proveen sus ideas para las decisiones.
 **E**n cambio, en un ambiente más estructurado y autoritario, la  <br>
 comunicación hacia también se da, pero es limitada.
 
->**41. ¿Cuál es el concepto de poder? ¿Qué tipos de poder conoce?**
----
+<details>
+<summary>
+<h2>41. ¿Cuál es el concepto de poder? ¿Qué tipos de poder conoce?</h2>
+</summary>
+
 Es la capcidad para ejercer influencia en los demás.<br>
 Las 5 categorías de poder fueron propuestas por los psicólogos John French <br>
 y Bertram Raven en 1959:
@@ -209,15 +212,12 @@ crear un ambiente de trabajo hostil y afectar negativamente la motivación<br>
 y el rendimiento de los empleados. Por tanto, es importante que los líderes <br>
 utilicen este tipo de poder con cautela y consideren en su lugar enfoques <br>
 más constructivos para motivar y dirigir a su equipo.
+</details>
 
 
 <details>
 <summary>
-<strong>
-<h2>
-42. ¿Cuál es el concepto de autoridad? ¿Qué tipos conoce?
-</h2>
-</strong>
+<h2>42. ¿Cuál es el concepto de autoridad? ¿Qué tipos conoce?</h2>
 </summary>
 
 La `autoridad` es una forma de poder.<br>
@@ -232,7 +232,7 @@ en los demás es legítimo.
 - Es un derecho que emana del puesto formal de la organización.
 - La autoridad formal proviene del poder.<br>
 
->Según la `posición clásica`, la autoridad reside en el nivel más alto, y<br>
+Según la `posición clásica`, la autoridad reside en el nivel más alto, y<br>
 desciende de nivel en nivel.<br>
 
 Ejemplo: 
@@ -240,7 +240,7 @@ Ejemplo:
     - Estado
       - (Rey, Dictador, Presidente electo)
         
->Según la `posición de la aceptación`, la base de la autoridad está en el<br>
+Según la `posición de la aceptación`, la base de la autoridad está en el<br>
 `influido`  y no en el `influyente`, tiene más que ver con la obediencia,<br>
 porque el receptor `decide` <br>
 No quiere decir que la insubordinación y el caos son la norma de las<br>
@@ -279,8 +279,17 @@ departamentos.
 
 </details>
 
-**43. Diferencia poder de autoridad y diga que significa delegar.**
----
+<details>
+<summary>
+<h2>43. Diferencia poder de autoridad y diga que significa delegar.</h2>
+</summary>
 
-**44. Concepto de liderazgo, qué es un líder y que tipos de liderazgo conoce.**
----
+</details>
+
+
+<details>
+<summary>
+<h2>44. Concepto de liderazgo, qué es un líder y que tipos de liderazgo conoce.</h2>
+</summary>
+
+</details>
