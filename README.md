@@ -4,140 +4,359 @@
 Unidades 1 a 3
 ---
 
-**1. Desarrolle los conceptos de Sistema, Subsistema y responda cuáles son los**
-<br>**parámetros de sistema, grafique.**
-
-
-**2. Qué es la TGS. Defina: Sistema, entropía, homeostasis y sinergía.**
-
-
-**3. Grafique y explique: la organización como sistema abierto.**
-
-
-**4. Concepto de cibernética, cite algún ejemplo de sistema cibernético.**
-
-
-**5. ¿Qué es un modelo? ¿para que se utilizan? De ejemplos.**
-
-
-**6. Defina información. ¿Cuál es la diferencia con DATO?**
-
-
-**7. Teoría de la comnicación. (Modelo de Shannon). Grafique el proceso de**<br>
-**comunicación.**
-
- 
-**8. Modelo de Shannon. Grafique y describa sus componentes aplicando un caso**
-<br>**concreto: Teléfono, PC, etc.**
-
-
-**9. Mencione y describa los componentes del Sistema de comunicación según**<br>
-**Claude Shanon. Concepto de Redudancia.**
-
-
-**10. Explique la organización como sistema abierto y los conceptos de**<br>
-**Entropía y Sinergía.**
-
-
-**11. ¿Qué es la informática? Relación con las IT.**
-
-
-**12. ¿Qué es la informática? ¿Cómo incide en la Administración?**
-
-
-**13. ¿Qué es un sistema de información? ¿Qué tipos de SI conoce?**
-
-
-**14. ¿Cuáles son los parámetros de un sistema?**
-
-
-**15. Explique enfoque sistemático y enfoque analítico. ¿Se utilizan por**<br>
-**separado? ¿Se complementan?**
-
-
-**16. La organización como sistema abierto. Cite los modelos dados.**
-
-
-**17. De una definición de sistema. Grafique y ejemplifique.**
-
-
-**18. Defina a la organización como sistema abierto y de ejemplos.**
-
-
-**19. Defina a la organización como sistema social. ¿Qué elementos la**<br>
-**caracterizan? Ejemplifique.**
-
-
-**20. Desarrollo: Sistemas. Concepto. Tipos de Sistemas. Sus parámetros:**<br>
-**Entradas, Salidas, procesamiento, retroalimentación y ambiente.**
-
-
-**21. Describa brevemente el sistema Socio-técnico y su relación con la**<br>
-**eficiencia (Tavistock)...ver apunte.**
-
-
-**22. Diga que entiende usted por una orgazación, dé una definición y**<br>
-**ejemplos.**
-
-
-**23. Defina la Organización como un sistema socio-técnico. De ejemplos.**
-
-
-**24. Considerando que la empresa es un sistema abierto. Explique los**<br>
-**siguientes conceptos: Entorno o contexto (Clasificación y variables** <br>
-**principales) y retroalimentación.**<br>
-
-
-**25. ¿Qué tipos de organización conoce? Grafique.**
-
-
-**26. ¿Qué es una organización sin fines de lucro? Ejemplos.**
-
-
-**27. ¿Qué es una organización formal? ¿Informal?**
-
-
-**28. ¿Qué es una organización con fines de lucro? Ejemplos.**
-
-
-**29. ¿Qué es una organización centralizada? Ejemplo.**
-
-
-**30. ¿Qué es el espacio organizacional?**
-
-
-**31. Defina contexto organizacional. Ejemplos.**
-
-
-**32. ¿Qué marco normativo tienen las organizaciones?**
-
-
-**33. ¿Qué se conoce como cultura organizacional? Ejemplos.**
-
-
-**34. De un ejemplo de planificación. Meta y Objetivo.**
-
-
-**35. Proceso de planeamiento: desarrolle el concepto de planeamiento**<br>
-**estratégico y de planeamiento táctico. Diferencias.**
-
-
-**36. Desarrolle los siguientes conceptos: Departamentalización, delegación y**
-<br> **organigrama.**
-
-
-**37. Explique brevemente el concepto de Planeamiento, describa el proceso de**
-<br>**planeamiento y los niveles que le comprende.**
-
-
-**38. Describa y diferencie: Planeamiento estratégico, táctico y operativo.**
-
-
-**39. Concepto de Misión, Visión y Valores.**
-
-
-**40. ¿Qué se conoce como cultura organizacional? Ejemplifique.**
-
+<details>
+<summary>
+<h2>
+1. Desarrolle los conceptos de Sistema, Subsistema y responda cuáles son los<br>
+parámetros de sistema, grafique.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+2. Qué es la TGS. Defina: Sistema, entropía, homeostasis y sinergía.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+3. Grafique y explique: la organización como sistema abierto.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+4. Concepto de cibernética, cite algún ejemplo de sistema cibernético.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+5. ¿Qué es un modelo? ¿para que se utilizan? De ejemplos.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+6. Defina información. ¿Cuál es la diferencia con DATO?
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+7. Teoría de la comnicación. (Modelo de Shannon). Grafique el proceso de <br>
+comunicación.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+8. Modelo de Shannon. Grafique y describa sus componentes aplicando un caso <br>
+concreto: Teléfono, PC, etc.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+9. Mencione y describa los componentes del Sistema de comunicación según <br>
+Claude Shanon. Concepto de Redudancia.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+10. Explique la organización como sistema abierto y los conceptos de <br>
+Entropía y Sinergía.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+11. ¿Qué es la informática? Relación con las IT.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+12. ¿Qué es la informática? ¿Cómo incide en la Administración?
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+13. ¿Qué es un sistema de información? ¿Qué tipos de SI conoce?
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+14. ¿Cuáles son los parámetros de un sistema?
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+15. Explique enfoque sistemático y enfoque analítico. ¿Se utilizan por <br>
+separado? ¿Se complementan?
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+16. La organización como sistema abierto. Cite los modelos dados.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+17. De una definición de sistema. Grafique y ejemplifique.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+18. Defina a la organización como sistema abierto y de ejemplos.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+19. Defina a la organización como sistema social. ¿Qué elementos la <br>
+caracterizan? Ejemplifique.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+20. Desarrollo: Sistemas. Concepto. Tipos de Sistemas. Sus parámetros: <br>
+Entradas, Salidas, procesamiento, retroalimentación y ambiente.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+21. Describa brevemente el sistema Socio-técnico y su relación con la <br>
+eficiencia (Tavistock)...ver apunte.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+22. Diga que entiende usted por una orgazación, dé una definición y ejemplos.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+23. Defina la Organización como un sistema socio-técnico. De ejemplos.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+24. Considerando que la empresa es un sistema abierto. Explique los <br>
+siguientes conceptos: Entorno o contexto (Clasificación y variables <br>
+principales) y retroalimentación.
+</h2>
+</summary>
+
+</details>
+
+
+
+<details><summary>
+<h2>
+25. ¿Qué tipos de organización conoce? Grafique.
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+26. ¿Qué es una organización sin fines de lucro? Ejemplos.
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+27. ¿Qué es una organización formal? ¿Informal?
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+28. ¿Qué es una organización con fines de lucro? Ejemplos.
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+29. ¿Qué es una organización centralizada? Ejemplo.
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+30. ¿Qué es el espacio organizacional?
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+31. Defina contexto organizacional. Ejemplos.
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+32. ¿Qué marco normativo tienen las organizaciones?
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+33. ¿Qué se conoce como cultura organizacional? Ejemplos.
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+34. De un ejemplo de planificación. Meta y Objetivo.
+</h2>
+</summary>
+</details>
+
+<details><summary>
+<h2>
+35. Proceso de planeamiento: desarrolle el concepto de planeamiento <br>
+estratégico y de planeamiento táctico. Diferencias.
+</h2>
+</summary>
+</details>
+
+
+
+<details>
+<summary>
+<h2>
+36. Desarrolle los siguientes conceptos: Departamentalización, delegación y <br>
+organigrama.
+</h2>
+</summary>
+
+</details>
+
+<details>
+<summary>
+<h2>
+37. Explique brevemente el concepto de Planeamiento, describa el proceso de <br>
+planeamiento y los niveles que le comprende.
+</h2>
+</summary>
+
+</details>
+
+
+
+<details>
+<summary>
+<h2>
+38. Describa y diferencie: Planeamiento estratégico, táctico y operativo.
+</h2>
+</summary>
+</details>
+
+<details>
+<summary>
+<h2>
+39. Concepto de Misión, Visión y Valores.
+</h2>
+</summary>
+</details>
+
+<details>
+<summary>
+<h2>
+40. ¿Qué se conoce como cultura organizacional? Ejemplifique.
+</h2>
+</summary>
 
 **L**a cultura organizacional se refiere a la forma de relacionarse entre <br>
 sí que presenta una organización. Es el conjunto de valores, creencias,<br>
@@ -150,6 +369,9 @@ proveen sus ideas para las decisiones.
 
 **E**n cambio, en un ambiente más estructurado y autoritario, la  <br>
 comunicación hacia también se da, pero es limitada.
+
+
+</details>
 
 <details>
 <summary>
@@ -289,7 +511,9 @@ departamentos.
 
 <details>
 <summary>
-<h2>44. Concepto de liderazgo, qué es un líder y que tipos de liderazgo conoce.</h2>
+<h2>
+44. Concepto de liderazgo, qué es un líder y que tipos de liderazgo conoce.
+</h2>
 </summary>
 
 </details>
