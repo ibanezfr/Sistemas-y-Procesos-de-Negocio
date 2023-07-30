@@ -263,7 +263,15 @@ principales) y retroalimentación.
 </summary>
 
 ```mermaid
+graph LR
+id1[Tipos de Organizaciones]
+id2[Según sus fines]
+id3[Según su formalidad]
+id4[Según su grado de Centralización]
 
+id1 ==> id2
+id1 ==> id3
+id1 ==> id4
 ```
 </details>
 
