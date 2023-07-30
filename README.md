@@ -317,6 +317,18 @@ principales) y retroalimentación.
 32. ¿Qué marco normativo tienen las organizaciones?
 </h2>
 </summary>
+
+El `marco normativo` de las organizaciones está compuesto por el conjunto de
+leyes, decretos, reglamentaciones y otras normas jurídicas que regulan su
+funcionamiento y actividades. Este marco normativo es establecido por las
+autoridades pertinentes de diferentes jurisdicciones, como el gobierno nacional,
+estatal o local, dependiendo del ámbito en el que la organización opere.
+
+El `marco normativo` proporciona las pautas y los límites legales en los que las
+organizaciones deben operar, asegurando un comportamiento ético y responsable,
+así como también estableciendo mecanismos para proteger los derechos de los
+trabajadores, clientes y otros grupos de interés.
+
 </details>
 
 <!-- 33 -->
