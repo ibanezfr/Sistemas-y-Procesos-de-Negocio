@@ -293,6 +293,22 @@ principales) y retroalimentación.
 29. ¿Qué es una organización centralizada? Ejemplo.
 </h2>
 </summary>
+
+Una `organización centralizada` es aquella en la cual la toma de decisiones y la
+autoridad se concentran principalmente en la parte superior de la jerarquía, es
+decir, en los niveles más altos de la estructura organizativa. En este tipo de
+organización, se limita la delegación de autoridad hacia los niveles inferiores,
+lo que significa que la mayor parte de las decisiones importantes son tomadas
+por los altos directivos o líderes.
+
+En una organización centralizada, la información y la toma de decisiones fluyen
+de manera vertical, desde la cúpula de la organización hacia abajo, lo que puede
+resultar en una estructura jerárquica rígida y una comunicación más lenta entre
+los niveles. Las dependencias gubernamentales como los ejércitos, el correo y el
+ministerio de economía son ejemplos típicos de organizaciones centralizadas,
+donde la autoridad y la toma de decisiones están altamente concentradas en las
+altas esferas del gobierno.
+
 </details>
 
 <!-- 30 -->
