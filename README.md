@@ -301,6 +301,16 @@ principales) y retroalimentación.
 30. ¿Qué es el espacio organizacional?
 </h2>
 </summary>
+
+El `espacio organizacional` se refiere a los distintos ámbitos físicos donde una
+organización desarrolla sus actividades. Estos espacios pueden ser `internos`,
+como las plantas industriales, oficinas o sucursales, y `externos`, como clubes
+sociales o zonas cercanas a la organización. Es como un mapa o diseño social que
+permite coordinar y relacionar todas las actividades tanto internas como
+externas que generan la organización. En resumen, el espacio organizacional
+abarca los entornos físicos en los cuales la organización opera y ejerce su
+influencia.
+
 </details>
 
 <!-- 31 -->
