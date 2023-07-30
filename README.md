@@ -342,6 +342,9 @@ principales) y retroalimentación.
 estratégico y de planeamiento táctico. Diferencias.
 </h2>
 </summary>
+
+Ver 37 y 38.
+
 </details>
 
 <!-- 36 -->
