@@ -269,6 +269,39 @@ principales) y retroalimentación.
 26. ¿Qué es una organización sin fines de lucro? Ejemplos.
 </h2>
 </summary>
+
+Una `organización sin fines de lucro` es aquella cuyo principal objetivo no es
+generar ganancias o utilidades para sus propietarios o miembros. Estas
+organizaciones se caracterizan por tener una misión o función específica en la
+sociedad y buscan cumplirla sin perseguir beneficios económicos para sí mismas.
+
+Las organizaciones sin fines de lucro pueden operar en diversos ámbitos y
+sectores, y suelen estar enfocadas en causas sociales, educativas, culturales,
+medioambientales o de ayuda humanitaria. Su financiamiento proviene
+principalmente de donaciones, subvenciones, aportes de socios o voluntarios, y
+en algunos casos, también pueden generar ingresos a través de actividades
+relacionadas con su misión.
+
+1. Organizaciones no gubernamentales (ONG) que trabajan en temas como derechos
+   humanos, medio ambiente, salud, educación, etc.
+
+2. Fundaciones filantrópicas que apoyan causas sociales o realizan donaciones a
+   instituciones benéficas.
+
+3. Asociaciones y clubes cívicos o culturales que promueven actividades
+   comunitarias y eventos sin ánimo de lucro.
+
+4. Instituciones educativas y universidades sin fines de lucro.
+
+5. Organizaciones religiosas y caritativas que brindan asistencia y servicios a
+   comunidades necesitadas.
+
+6. Hospitales y centros de salud sin fines de lucro que ofrecen atención médica
+   a sectores vulnerables.
+
+7. Museos y centros culturales que buscan preservar y difundir el patrimonio
+   cultural sin buscar beneficios económicos directos.
+
 </details>
 
 <!-- 27 -->
