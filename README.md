@@ -333,6 +333,29 @@ principales) y retroalimentación.
 34. De un ejemplo de planificación. Meta y Objetivo.
 </h2>
 </summary>
+
+Ejemplo de Planificación:
+
+`Meta`: Incrementar las ventas en un 20% en los próximos 12 meses.
+
+`Objetivo`: Implementar estrategias de marketing digital para atraer a nuevos
+clientes y fidelizar a los existentes.
+
+En este ejemplo de planificación, la meta es aumentar las ventas en un 20% en el
+plazo de 12 meses, lo que representa el resultado deseado que se quiere lograr.
+Para alcanzar esta meta, el objetivo es utilizar estrategias de marketing
+digital, que incluirían actividades como campañas en redes sociales, marketing
+de contenidos, publicidad en línea, entre otras, con el fin de atraer a nuevos
+clientes y mantener la lealtad de los clientes actuales.
+
+Es importante mencionar que las metas son los resultados finales que se buscan
+alcanzar, mientras que los objetivos son las acciones específicas que se deben
+realizar para llegar a esa meta. En este caso, el objetivo de implementar
+estrategias de marketing digital es el medio a través del cual se espera lograr
+el incremento en las ventas. La planificación es fundamental para guiar las
+acciones y esfuerzos hacia el logro de los objetivos y, finalmente, de las metas
+establecidas.
+
 </details>
 
 <!-- 35 -->
