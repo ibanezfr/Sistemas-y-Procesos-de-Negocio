@@ -325,6 +325,58 @@ principales) y retroalimentación.
 33. ¿Qué se conoce como cultura organizacional? Ejemplos.
 </h2>
 </summary>
+
+La `cultura organizacional` es un conjunto de valores, creencias, normas,
+lenguajes, conocimientos, códigos de comportamiento y formas de actuar que son
+conocidos y compartidos por los miembros de una organización. Esta cultura se
+manifiesta en indicadores observables, como objetos, decoración, logotipos y
+colores, así como en indicadores no observables, como ideologías, valores,
+percepciones compartidas y acuerdos informales. La cultura organizacional abarca
+prácticas, procesos y experiencias, y es influenciada tanto por los grupos como
+por la propia organización, teniendo efecto en sus miembros y su identidad
+corporativa. Es un elemento distintivo que identifica a la organización y guía
+el comportamiento de sus miembros.
+
+**Valores:** Los valores son principios y convicciones fundamentales que guían
+el comportamiento y las decisiones de los miembros de una organización.
+Representan las creencias compartidas sobre lo que es importante y correcto, y
+tienen un impacto significativo en cómo se comporta y opera la organización.
+Algunos ejemplos de valores son la responsabilidad, la honestidad, el respeto,
+la ética y la excelencia.
+
+**Visiones:** Las visiones son las ideas y aspiraciones que los líderes de la
+organización tienen para el futuro de la empresa. Representan una imagen clara y
+deseable del camino que la organización debe seguir y los logros que se esperan
+alcanzar a largo plazo. Las visiones inspiran y motivan a los miembros de la
+organización, brindando una dirección estratégica y un sentido de propósito
+compartido.
+
+**Impulsores:** Los impulsores son frases o conceptos que sintetizan la visión
+de los líderes de la organización y que se adoptan como parte de la cultura
+corporativa. Estas frases deben ser coherentes con la realidad de la empresa y
+sus objetivos estratégicos. Los impulsores se utilizan para comunicar de manera
+concisa y poderosa los valores y metas de la organización a sus empleados y
+clientes.
+
+**Creencias:** Las creencias son profesiones de fe y representan convicciones
+arraigadas que trascienden la lógica racional. Estas creencias a menudo se basan
+en historias o metáforas que definen la identidad y la imagen de la
+organización. Por ejemplo, una empresa que rememora sus inicios con fotos
+antiguas para enfatizar la honestidad y el compromiso con los clientes.
+
+**Símbolos y Esloganes:** Los símbolos y esloganes refuerzan las creencias y
+valores de la organización. Pueden ser logotipos, colores corporativos, nombres
+de productos o servicios, entre otros. Estos elementos visuales y frases
+distintivas representan la identidad de la organización y se utilizan para
+generar reconocimiento y recordación en el público.
+
+**Rituales y Ceremonias:** Los rituales y ceremonias son actos que se repiten de
+manera consistente en la organización. Estas prácticas fomentan la cohesión y el
+sentido de pertenencia entre los miembros, refuerzan los valores y celebran
+logros importantes. Por ejemplo, la organización puede realizar ceremonias de
+reconocimiento a empleados destacados o eventos anuales para promover la unión y
+el sentido de comunidad dentro de la empresa.
+
 </details>
 
 <!-- 34 -->
