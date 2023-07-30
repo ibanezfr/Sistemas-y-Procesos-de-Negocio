@@ -542,6 +542,21 @@ departamentos.
 <h2>43. Diferencia poder de autoridad y diga que significa delegar.</h2>
 </summary>
 
+La `autoridad` es una forma de poder que una persona tiene sobre otra que está
+subordinada a ella. Enfoques más recientes han llevado a hablar de "aceptación
+de la autoridad", lo que implica que la influencia se obtiene no solo a través
+del poder formal, sino también por la aceptación y reconocimiento de la
+competencia y habilidades de quien ejerce la influencia.
+
+`Delegar` es el acto de transferir autoridad y responsabilidad a otros miembros
+de una organización o equipo para que puedan llevar a cabo tareas específicas o
+tomar decisiones relacionadas con su trabajo. Esto implica ceder el control y
+permitir que los empleados asuman la responsabilidad de sus funciones, lo que
+puede conducir a una mayor autonomía, empoderamiento y desarrollo de habilidades
+en los empleados. El liderazgo basado en la delegación fomenta la participación
+y el trabajo en equipo, lo que puede cambiar los estilos de liderazgo y las
+relaciones de poder dentro de una organización.
+
 </details>
 
 <!-- 44 -->
@@ -551,5 +566,12 @@ departamentos.
 44. Concepto de liderazgo, qué es un líder y que tipos de liderazgo conoce.
 </h2>
 </summary>
+
+El liderazgo es una forma de ejercer influencia.
+
+El liderazgo consiste en dirigir y controlar a las personas dentro de una
+organización. Los líderes motivan a sus subordinados, guían sus actividades,
+seleccionan canales de comunicación efectivos y resuelven conflictos para lograr
+los objetivos del grupo de manera eficiente y efectiva.
 
 </details>
