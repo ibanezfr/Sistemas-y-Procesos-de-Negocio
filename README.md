@@ -221,6 +221,8 @@ eficiencia (Tavistock)...ver apunte.
 </h2>
 </summary>
 
+
+
 </details>
 
 <!-- 22 -->
@@ -230,6 +232,16 @@ eficiencia (Tavistock)...ver apunte.
 22. Diga que entiende usted por una orgazación, dé una definición y ejemplos.
 </h2>
 </summary>
+
+La `organización` es el proceso mediante el cual se articulan y disponen un
+conjunto de medios y recursos, como personas, financieros, físicos e
+información, con el fin de lograr metas concretas. Implica ensamblar y coordinar
+estos recursos para crear una estructura que facilite la consecución de
+objetivos y el máximo éxito. 
+
+Una `organización` es un grupo humano de especialistas que trabajan juntos en
+una tarea común y está diseñada deliberadamente para perdurar en el tiempo, con
+una duración significativa en su existencia.
 
 </details>
 
