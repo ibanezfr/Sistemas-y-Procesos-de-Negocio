@@ -309,6 +309,9 @@ principales) y retroalimentación.
 31. Defina contexto organizacional. Ejemplos.
 </h2>
 </summary>
+
+
+
 </details>
 
 <!-- 32 -->
@@ -328,6 +331,16 @@ El `marco normativo` proporciona las pautas y los límites legales en los que la
 organizaciones deben operar, asegurando un comportamiento ético y responsable,
 así como también estableciendo mecanismos para proteger los derechos de los
 trabajadores, clientes y otros grupos de interés.
+
+Las organizaciones interactúan con su entorno social, cultural, político,
+jurídico y económico. El marco jurídico normativo proviene de diferentes niveles
+de gobierno (municipal, provincial y nacional) y regula la vida de las
+organizaciones y personas. Esto incluye normas y leyes que establecen reglas de
+conducta. Las organizaciones, como sistemas sociales, adquieren la
+característica de persona jurídica, con derechos y obligaciones. El marco
+jurídico normativo incluye la Constitución, leyes, decretos y reglamentaciones a
+nivel nacional, provincial y municipal, así como las normas de organismos de
+contralor y prácticas socialmente aceptadas por jurisprudencia o expertos.
 
 </details>
 
