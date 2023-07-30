@@ -210,6 +210,80 @@ Entradas, Salidas, procesamiento, retroalimentación y ambiente.
 </h2>
 </summary>
 
+>Un sistema es un conjunto organizado de elementos interrelacionados que
+interactúan entre sí, entre sus atributos y con su ambiente conformando una
+totalidad, persiguiendo un fin determinado, y teniendo una actuación conjunta
+superior a la suma de las actuaciones individuales de sus elementos.
+
+Existen diferentes tipos de sistemas en diversos campos y disciplinas. Aquí hay
+algunos ejemplos de sistemas clasificados según su naturaleza:
+
+1. `Sistemas Naturales`: Son sistemas que existen en la naturaleza y se rigen
+   por leyes científicas. Ejemplos incluyen sistemas climáticos, ecosistemas,
+   cuerpos celestes, etc.
+
+2. `Sistemas Sociales`: Son sistemas que involucran interacciones entre
+   individuos y/o grupos sociales. Ejemplos incluyen sistemas políticos,
+   sistemas económicos, comunidades, organizaciones sociales, etc.
+
+3. `Sistemas Abiertos`: Son sistemas que interactúan con su entorno y reciben
+   entrada y salida de información o energía para mantener su funcionamiento.
+   Los seres vivos y muchas organizaciones son ejemplos de sistemas abiertos.
+
+4. `Sistemas Cerrados`: Son sistemas que no intercambian información o energía
+   con su entorno y se consideran aislados. En la práctica, es difícil encontrar
+   sistemas completamente cerrados, pero a veces se utilizan como modelos
+   teóricos.
+
+5. `Sistemas Mecánicos`: Son sistemas físicos con componentes mecánicos y se
+   rigen por principios de la mecánica clásica. Ejemplos incluyen relojes,
+   motores, máquinas, etc.
+
+6. `Sistemas Biológicos`: Son sistemas que involucran organismos vivos y sus
+   interacciones. Ejemplos incluyen el cuerpo humano, ecosistemas, cadenas
+   alimenticias, etc.
+
+7. `Sistemas Informáticos`: Son sistemas basados en computadoras y software, que
+   procesan información y datos. Ejemplos incluyen sistemas operativos,
+   aplicaciones, redes informáticas, etc.
+
+8. `Sistemas Complejos`: Son sistemas caracterizados por su alta interconexión y
+   comportamiento emergente. Ejemplos incluyen el clima, el cerebro humano, la
+   economía global, etc.
+
+9. `Sistemas Adaptativos`: Son sistemas que tienen la capacidad de ajustarse y
+   cambiar en respuesta a su entorno o nuevas condiciones. Ejemplos incluyen
+   sistemas de inteligencia artificial, organismos vivos, etc.
+
+10. `Sistemas Socio-técnicos`: Son sistemas que combinan elementos sociales y
+    tecnológicos para lograr ciertos objetivos. Ejemplos incluyen sistemas de
+    producción industrial, sistemas de transporte, etc.
+
+
+Un sistema se describe a través de los siguiente parámetros:
+
+- `Entrada (Input)`: Representa la primera interacción del sistema con su
+  entorno, que puede incluir personas, energía, materia prima e información.
+- `Control (Feed-forward)`: Se refiere al control previo de ingreso de elementos
+  al sistema, asegurando que cumplan con los requisitos establecidos.
+- `Salidas (Resultados)`: Son los elementos que salen del sistema como
+  consecuencia de su proceso de transformación, como productos, beneficios,
+  información o servicios.
+- `Control de Salidas`: Implica la comparación de las salidas con los estándares
+  u objetivos establecidos y la adecuación para mantener el funcionamiento del
+  sistema según lo previsto.
+- `Proceso (Throughput)`: Representa la actividad aplicada sobre las entradas
+  para transformarlas y agregarles valor y utilidad.
+- `Retroalimentación (Feedback)`: Consiste en comparar las salidas con objetivos
+  o estándares previos para obtener información sobre el funcionamiento del
+  sistema y ajustarlo en consecuencia.
+- `Ambiente o Contexto`: Es el conjunto de elementos externos que rodean,
+  contienen e influyen en el sistema.
+
+Estos elementos y su interacción permiten entender y analizar el funcionamiento
+y desempeño del sistema en su entorno.
+
+
 </details>
 
 <!-- 21 -->
