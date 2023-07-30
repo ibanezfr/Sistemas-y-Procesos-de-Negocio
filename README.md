@@ -199,6 +199,15 @@ caracterizan? Ejemplifique.
 </h2>
 </summary>
 
+La organización es un sistema social que tiene un propósito.
+
+Una colectividad con una frontera relativamente identificable, un orden
+normativo, niveles de autoridad, sistemas de comunicaciones y sistemas de
+coordinación de sus miembros; esta colectividad existe de manera continua en un
+ambiente y se involucra en actividades que se relacionan, por lo general, con un
+conjunto de metas y estas actividades tienen resultados para los miembros de la
+organización, la organización misma, y la sociedad
+
 </details>
 
 <!-- 20 -->
