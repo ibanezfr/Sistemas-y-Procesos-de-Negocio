@@ -277,6 +277,27 @@ principales) y retroalimentación.
 27. ¿Qué es una organización formal? ¿Informal?
 </h2>
 </summary>
+
+`Organización Formal:`
+
+Es aquella que distribuye de manera precisa, explícita y
+relativamente permanente las actividades, responsabilidades y autoridad entre
+sus miembros. En este tipo de organización, las funciones y roles están
+claramente definidos, y la jerarquía y estructura organizativa son formalmente
+establecidas. Ejemplos de organizaciones formales son facultades, escuelas,
+empresas y cualquier entidad con una estructura organizativa clara y
+jerarquizada.
+
+`Organización Informal:`
+
+Es aquella que carece de una distribución explícita de
+actividades, responsabilidades y autoridad entre sus miembros. En este tipo de
+organización, las relaciones entre los integrantes son más dinámicas y no están
+regidas por una estructura formal. Los grupos pueden formarse y disolverse de
+manera continua, y el liderazgo puede surgir de forma más espontánea. Ejemplos
+de organizaciones informales son grupos de amigos que se reúnen para organizar
+eventos, vacaciones, cumpleaños, reuniones de estudio, entre otros.
+
 </details>
 
 <!-- 28 -->
