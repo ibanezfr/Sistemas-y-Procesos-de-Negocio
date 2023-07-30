@@ -382,6 +382,33 @@ planeamiento y los niveles que le comprende.
 39. Concepto de Misión, Visión y Valores.
 </h2>
 </summary>
+
+La `misión` de una organización es su razón de ser y define su labor o actividad
+en el mercado. También `identifica` el público al que va dirigido, destacando su
+singularidad o factor diferencial. `Responde a preguntas` como qué hace la
+organización, cuál es su negocio, a qué se dedica, quiénes son su público
+objetivo, cuál es su ventaja competitiva y cómo se diferencia de sus
+competidores. Es una `declaración fundamental` que expresa el carácter, deberes
+y responsabilidades funcionales de la organización. En una estructura
+organizativa funcional, la misión y las funciones representan el objetivo
+institucional y los sub-objetivos, respectivamente.
+
+La `visión` de una organización define las metas que se pretenden alcanzar en el
+futuro. Estas metas deben ser realistas y alcanzables, ya que la visión tiene un
+carácter inspirador y motivador. Responde a preguntas como qué se quiere lograr,
+dónde se quiere estar en el futuro, para quién se trabajará y si se ampliará la
+zona de actuación. Es una declaración que guía el rumbo y orienta el esfuerzo
+hacia una aspiración clara y deseable para la organización.
+
+Los `valores` son principios éticos que fundamentan la cultura de una empresa y
+guían su comportamiento. Representan la personalidad de la organización y deben
+reflejar la realidad en lugar de ser meras expresiones de deseos de los líderes.
+Es recomendable formular un número limitado de valores, generalmente de 6 a 7,
+para mantener la credibilidad. Para definir los valores corporativos, es
+importante responder a preguntas como "¿Cómo somos?" y "¿En qué creemos?" Esto
+ayuda a establecer las pautas fundamentales que guiarán las acciones y
+decisiones de la empresa.
+
 </details>
 
 <!-- 40 -->
