@@ -221,7 +221,29 @@ eficiencia (Tavistock)...ver apunte.
 </h2>
 </summary>
 
+El enfoque `sociotécnico` concibe a las organizaciones como una combinación de
+tecnología y , al mismo tiempo, como un sistema social, desarrolándose entre los
+sibsistemas una gran interacción mutua y recíproca..
 
+El enfoque `socio-técnico` se basa en un modelo que describe a la organización
+como constituida por 4 componentes interrelacionados:
+Tareas - Personal - Tecnología - Estructura
+```mermaid
+
+```
+Estos elementos se agrupan en dos subsistemas:
+1. El **subsistema técnico**: que incluye los trabajos (tareas) que van a
+   desempeñarse, la forma en que se dividieron esos trabajos y se buscó su
+   coordinación (estructura), y los equipos, instalaciones, instrumentos, y el
+   ambiente físico y su disposición (tecnología). 
+   >Este subsistema es el
+   responsable de la `eficiencia potencial` potencial de la organización.
+
+2. El **subsistema social**: en el que se encuentran las personas, sus
+   características físicas y psicológicas, las vinculaciones y relaciones tanto
+   individuales como grupales, y las exigencias organizacionales en la
+   realización de los trabajos. Este subsistema es el encargado de transformar
+   la eficiencia potencial en eficiencia real.
 
 </details>
 
