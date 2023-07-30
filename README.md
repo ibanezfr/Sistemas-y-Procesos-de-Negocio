@@ -178,6 +178,15 @@ separado? ¿Se complementan?
 </h2>
 </summary>
 
+>Un sistema es un conjunto organizado de elementos interrelacionados que
+interactúan entre sí, entre sus atributos y con su ambiente conformando una
+totalidad, persiguiendo un fin determinado, y teniendo una actuación conjunta
+superior a la suma de las actuaciones individuales de sus elementos.
+
+```mermaid
+
+```
+
 </details>
 
 <!-- 18 -->
