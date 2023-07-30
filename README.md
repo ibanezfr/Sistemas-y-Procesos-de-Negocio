@@ -364,6 +364,19 @@ planeamiento y los niveles que le comprende.
 </h2>
 </summary>
 
+El `planeamiento` es el proceso mediante el cual se establecen metas y se eligen
+los medios para alcanzarlas. Es esencial para que los gerentes puedan organizar
+adecuadamente a su personal y utilizar los recursos de la organización de manera
+efectiva. Sin una planificación adecuada, es difícil saber hacia dónde dirigirse
+y cómo lograr los objetivos deseados. La planificación proporciona una guía
+clara y coherente para tomar decisiones y lograr el éxito en el cumplimiento de
+las metas organizacionales.
+
+Está compuesto por 3 niveles:
+  - Planeamiento Estratégico.
+  - Planeamiento Táctico.
+  - Planeamiento Operativo.
+
 </details>
 
 <!-- 38 -->
