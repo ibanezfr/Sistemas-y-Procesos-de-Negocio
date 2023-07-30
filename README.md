@@ -353,6 +353,25 @@ organigrama.
 </h2>
 </summary>
 
+La `departamentalización` es el proceso de agrupar tareas homogéneas dentro de
+una organización según un criterio específico, creando departamentos
+especializados. Facilita la coordinación, comunicación y control en una
+organización en crecimiento, mejorando su eficiencia y efectividad en el
+cumplimiento de objetivos.
+
+Un `organigrama` es una representación gráfica de la estructura de una
+organización, mostrando la jerarquía de departamentos y áreas funcionales, así
+como las relaciones de autoridad y comunicación. Utiliza líneas y cuadros para
+ilustrar niveles jerárquicos y cargos, proporcionando información sobre
+responsabilidades y reportes. Es una herramienta valiosa para comunicar la
+estructura organizativa y facilitar la comprensión de decisiones y flujo de
+trabajo.
+
+`Delegación` es transferir autoridad y responsabilidad a niveles inferiores en
+la jerarquía organizativa. Empodera a los empleados, fomenta su desarrollo y
+libera carga de trabajo a líderes. Requiere expectativas claras para un proceso
+efectivo.
+
 </details>
 
 <!-- 37 -->
