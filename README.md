@@ -285,6 +285,59 @@ principales) y retroalimentación.
 28. ¿Qué es una organización con fines de lucro? Ejemplos.
 </h2>
 </summary>
+
+Una organización con fines de lucro, también conocida como empresa, es aquella
+cuyo principal objetivo es generar ganancias o utilidades para sus propietarios
+y/o accionistas. Estas organizaciones operan con el propósito de obtener
+beneficios económicos y maximizar el retorno de inversión para aquellos que
+invierten en ellas.
+
+En una empresa con fines de lucro, la toma de decisiones se orienta hacia la
+rentabilidad y el crecimiento financiero. Sus actividades comerciales y
+operativas están diseñadas para generar ingresos superiores a los costos y
+gastos incurridos, lo que resulta en una utilidad neta que se distribuye entre
+los propietarios o reinvierte en la empresa para su expansión y desarrollo.
+
+Es importante mencionar que, aunque el lucro es el objetivo principal, las
+organizaciones con fines de lucro también pueden tener otros objetivos
+secundarios, como el crecimiento del mercado, la satisfacción del cliente o el
+desarrollo de su personal, ya que estos factores pueden contribuir al logro de
+sus metas financieras. Sin embargo, la generación de beneficios económicos sigue
+siendo su propósito fundamental.
+
+1. `Empresas comerciales`: Tiendas minoristas, supermercados, grandes almacenes,
+   tiendas de electrónicos, etc.
+
+2. `Empresas manufactureras`: Fábricas de automóviles, industrias alimentarias,
+   empresas textiles, entre otras.
+
+3. `Bancos y entidades financieras`: Instituciones bancarias, compañías de
+   seguros, casas de bolsa, entre otros.
+
+4. `Empresas de servicios`: Compañías de telecomunicaciones, proveedores de
+   Internet, compañías de transporte, etc.
+
+5. `Compañías tecnológicas`: Empresas qde software, empresas de hardware,
+   compañías de tecnología de la información, entre otras.
+
+6. `Cadena de restaurantes y cafeterías`: Franquicias de comida rápida,
+   restaurantes de servicio completo, cafeterías, etc.
+
+7. `Empresas de entretenimiento`: Cines, parques temáticos, compañías de medios
+   y entretenimiento, etc.
+
+8. `Empresas de consultoría y asesoría`: Firmas de consultoría de negocios,
+   firmas de abogados, empresas de contabilidad, etc.
+
+9. `Compañías farmacéuticas`: Empresas que fabrican y venden productos
+   farmacéuticos y medicamentos.
+
+10. `Empresas de transporte y logística`: Compañías de envío, empresas de
+    logística, transporte de carga, entre otras.
+
+Estos son solo algunos ejemplos, ya que hay una gran variedad de organizaciones
+con fines de lucro en diferentes industrias y sectores económicos.
+
 </details>
 
 <!-- 29 -->
