@@ -373,6 +373,63 @@ planeamiento y los niveles que le comprende.
 38. Describa y diferencie: Planeamiento estratégico, táctico y operativo.
 </h2>
 </summary>
+
+El planeamiento estratégico, táctico y operativo son tres niveles distintos de
+planificación utilizados en una organización para alcanzar sus objetivos. Cada
+uno se enfoca en diferentes horizontes temporales y niveles de detalle.
+
+1. **Planeamiento Estratégico:**
+
+    - `Horizonte temporal`: Largo plazo (generalmente de 3 a 5 años o más).
+
+    - `Enfoque`: Se enfoca en establecer la dirección general y los objetivos
+globales de la organización. Implica tomar decisiones de alto nivel que afectan
+a toda la empresa y su posición competitiva en el mercado. 
+
+    - `Alcance`: Cubre a toda la organización y abarca aspectos como la misión,
+visión, valores, análisis del entorno, definición de objetivos estratégicos y
+formulación de estrategias para lograrlos. 
+
+    - `Responsabilidad`: La alta dirección y los principales ejecutivos de la
+empresa son los responsables de la planificación estratégica.
+
+2. **Planeamiento Táctico:**
+
+    - `Horizonte temporal`: Mediano plazo (generalmente de 1 a 3 años). Enfoque:
+Se enfoca en implementar las estrategias definidas en el planeamiento
+estratégico. Implica traducir los objetivos estratégicos en planes y acciones
+concretas para cada área o unidad funcional de la organización.
+
+    - `Alcance`: Se centra en departamentos o áreas específicas de la
+organización y busca optimizar sus recursos para contribuir al logro de los
+objetivos estratégicos globales. 
+
+    - `Responsabilidad`: Los gerentes de nivel medio y los líderes de unidades
+funcionales son responsables de la planificación táctica y la ejecución de los
+planes en sus áreas respectivas.
+
+3. **Planeamiento Operativo:**
+
+    - `Horizonte temporal`: Corto plazo (generalmente de 1 año o menos). 
+
+    - `Enfoque`: Se concentra en la implementación detallada y la ejecución de
+los planes tácticos. Implica definir actividades específicas, asignar recursos y
+establecer fechas y metas alcanzables.
+
+    - `Alcance`: Se refiere a las tareas diarias y rutinarias que deben llevarse
+a cabo para alcanzar los objetivos tácticos y, por ende, los estratégicos.
+
+    - `Responsabilidad`: Los supervisores y encargados de ejecutar las
+actividades en el nivel operativo son responsables de la planificación operativa
+y asegurar que se cumplan las tareas asignadas.
+
+En resumen, el `planeamiento estratégico` establece la dirección general y los
+objetivos de la organización, el `planeamiento táctico` traduce esos objetivos
+en planes y acciones para áreas específicas, y el `planeamiento operativo` se
+enfoca en la implementación detallada y ejecución de las tareas diarias para
+alcanzar los objetivos tácticos y estratégicos. Cada nivel es esencial para
+lograr el éxito y la efectividad de la organización en su conjunto.
+
 </details>
 
 <!-- 39 -->
