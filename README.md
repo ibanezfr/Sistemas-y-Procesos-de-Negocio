@@ -241,6 +241,42 @@ eficiencia (Tavistock)...ver apunte.
 </h2>
 </summary>
 
+La organización es un sistema socio-técnico interpersonal, creado
+intencionalmente para lograr objetivos específicos en torno a un proyecto
+concreto, satisfaciendo necesidades tanto de sus miembros como de una población
+externa. Está en constante interacción con su entorno externo, colaborando o
+compitiendo con diversas entidades presentes en ese contexto. (Aldo Schelmenson)
+
+1. `Una fábrica`: Una fábrica es un ejemplo clásico de sistema socio-técnico,
+   donde trabajadores y operarios interactúan con maquinaria y equipos para
+   producir bienes.
+
+2. `Un hospital`: En un hospital, médicos, enfermeros y personal de salud
+   trabajan en conjunto con tecnología médica avanzada para proporcionar
+   atención y servicios de salud a los pacientes.
+
+3. `Una escuela`: En una escuela, docentes y estudiantes interactúan en un
+   ambiente educativo que utiliza tecnologías como pizarras interactivas,
+   computadoras y materiales de enseñanza para facilitar el proceso de
+   aprendizaje.
+
+4. `Una empresa de tecnología`: En este tipo de organizaciones, ingenieros y
+   profesionales del área tecnológica colaboran para desarrollar y mejorar
+   productos y servicios tecnológicos.
+
+5. `Un centro de atención al cliente`: En estos centros, agentes de atención al
+   cliente utilizan sistemas informáticos y herramientas de comunicación para
+   resolver consultas y brindar asistencia a los clientes.
+
+6. `Un centro de investigación científica`: En estos centros, científicos e
+   investigadores trabajan con equipos y tecnología especializada para llevar a
+   cabo investigaciones y experimentos.
+
+7. `Un aeropuerto`: Un aeropuerto es un sistema socio-técnico donde el personal
+   de seguridad, operadores de equipos de tierra, personal de atención al
+   cliente y sistemas de control aéreo trabajan en conjunto para garantizar el
+   funcionamiento seguro y eficiente del aeropuerto y sus operaciones de vuelo.
+
 </details>
 
 <!-- 24 -->
