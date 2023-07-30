@@ -247,11 +247,13 @@ eficiencia (Tavistock)...ver apunte.
 <details>
 <summary>
 <h2>
-24. Considerando que la empresa es un sistema abierto. Explique los <br>
-siguientes conceptos: Entorno o contexto (Clasificación y variables <br>
+24. Considerando que la empresa es un sistema abierto. Explique los 
+siguientes conceptos: Entorno o contexto (Clasificación y variables 
 principales) y retroalimentación.
 </h2>
 </summary>
+
+Ver 31.
 
 </details>
 
