@@ -253,7 +253,7 @@ principales) y retroalimentación.
 </h2>
 </summary>
 
-Ver 31.
+Ver 31
 
 </details>
 
