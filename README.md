@@ -310,7 +310,48 @@ principales) y retroalimentación.
 </h2>
 </summary>
 
+Una organización es un sistema abierto que se relaciona, interactúa, influye y
+es influenciado por el `Contexto`.
 
+**Contexto Social**:
+
+Se refiere a la sociedad y comunidad en la que opera, incluyendo las actitudes,
+valores, costumbres y deseos de las personas que la conforman. Puede
+manifestarse a través de un marco jurídico o no, y comprende la interacción con
+diversos grupos sociales y las influencias culturales presentes en su entorno.
+
+**Contexto Político**:
+
+Se manifiesta a través del marco jurídico y normativo de la sociedad. Este marco
+está compuesto por leyes, decretos y reglamentaciones emitidos por las
+autoridades pertinentes en diferentes jurisdicciones. Estas regulaciones
+establecen las normas y pautas que deben seguir las organizaciones en su
+funcionamiento y actividades dentro de la sociedad. El contexto político influye
+en cómo las organizaciones operan y se adaptan a las exigencias y requisitos
+establecidos por las autoridades gubernamentales.
+
+**Contexto Cultural**:
+
+Se refiere a los valores que una comunidad ha producido y comparte. Engloba todo
+lo que sucede dentro de esa comunidad en términos de creencias, normas,
+tradiciones, costumbres y expresiones artísticas. Los valores culturales
+influyen en la forma en que las organizaciones operan y se relacionan con su
+entorno, y también pueden afectar las expectativas y preferencias de los
+clientes y empleados. Es importante que las organizaciones sean conscientes de
+su contexto cultural para adaptarse de manera adecuada y respetuosa a las
+diferencias culturales y aprovechar oportunidades que surjan de esta
+interacción.
+
+**Contexto Geográfico**:
+
+Abarca desde una perspectiva macro, que incluye lo mundial, regional y nacional,
+hasta una escala más micro, como la ciudad o el barrio en el que opera la
+organización. Este contexto comprende factores geográficos, climáticos,
+demográficos y culturales propios de cada ubicación, los cuales pueden influir
+en las estrategias y operaciones de la organización. Es importante que las
+organizaciones comprendan y consideren estas características geográficas para
+adaptarse a las particularidades de cada entorno y maximizar su eficacia y
+relevancia en su área de actuación.
 
 </details>
 
