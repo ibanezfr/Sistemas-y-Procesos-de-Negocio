@@ -4,6 +4,7 @@
 Unidades 1 a 3
 ---
 
+<!-- 1 -->
 <details>
 <summary>
 <h2>
@@ -14,6 +15,7 @@ parámetros de sistema, grafique.
 
 </details>
 
+<!-- 2 -->
 <details>
 <summary>
 <h2>
@@ -23,6 +25,7 @@ parámetros de sistema, grafique.
 
 </details>
 
+<!-- 3 -->
 <details>
 <summary>
 <h2>
@@ -32,6 +35,7 @@ parámetros de sistema, grafique.
 
 </details>
 
+<!-- 4 -->
 <details>
 <summary>
 <h2>
@@ -41,6 +45,7 @@ parámetros de sistema, grafique.
 
 </details>
 
+<!-- 5 -->
 <details>
 <summary>
 <h2>
@@ -50,6 +55,7 @@ parámetros de sistema, grafique.
 
 </details>
 
+<!-- 6 -->
 <details>
 <summary>
 <h2>
@@ -59,6 +65,7 @@ parámetros de sistema, grafique.
 
 </details>
 
+<!-- 7 -->
 <details>
 <summary>
 <h2>
@@ -69,6 +76,7 @@ comunicación.
 
 </details>
 
+<!-- 8 -->
 <details>
 <summary>
 <h2>
@@ -79,6 +87,7 @@ concreto: Teléfono, PC, etc.
 
 </details>
 
+<!-- 9 -->
 <details>
 <summary>
 <h2>
@@ -89,6 +98,7 @@ Claude Shanon. Concepto de Redudancia.
 
 </details>
 
+<!-- 10 -->
 <details>
 <summary>
 <h2>
@@ -99,6 +109,7 @@ Entropía y Sinergía.
 
 </details>
 
+<!-- 11 -->
 <details>
 <summary>
 <h2>
@@ -108,6 +119,7 @@ Entropía y Sinergía.
 
 </details>
 
+<!-- 12 -->
 <details>
 <summary>
 <h2>
@@ -117,6 +129,7 @@ Entropía y Sinergía.
 
 </details>
 
+<!-- 13 -->
 <details>
 <summary>
 <h2>
@@ -126,6 +139,7 @@ Entropía y Sinergía.
 
 </details>
 
+<!-- 14 -->
 <details>
 <summary>
 <h2>
@@ -135,6 +149,7 @@ Entropía y Sinergía.
 
 </details>
 
+<!-- 15 -->
 <details>
 <summary>
 <h2>
@@ -145,6 +160,7 @@ separado? ¿Se complementan?
 
 </details>
 
+<!-- 16 -->
 <details>
 <summary>
 <h2>
@@ -154,6 +170,7 @@ separado? ¿Se complementan?
 
 </details>
 
+<!-- 17 -->
 <details>
 <summary>
 <h2>
@@ -163,6 +180,7 @@ separado? ¿Se complementan?
 
 </details>
 
+<!-- 18 -->
 <details>
 <summary>
 <h2>
@@ -172,6 +190,7 @@ separado? ¿Se complementan?
 
 </details>
 
+<!-- 19 -->
 <details>
 <summary>
 <h2>
@@ -182,6 +201,7 @@ caracterizan? Ejemplifique.
 
 </details>
 
+<!-- 20 -->
 <details>
 <summary>
 <h2>
@@ -192,6 +212,7 @@ Entradas, Salidas, procesamiento, retroalimentación y ambiente.
 
 </details>
 
+<!-- 21 -->
 <details>
 <summary>
 <h2>
@@ -202,6 +223,7 @@ eficiencia (Tavistock)...ver apunte.
 
 </details>
 
+<!-- 22 -->
 <details>
 <summary>
 <h2>
@@ -211,6 +233,7 @@ eficiencia (Tavistock)...ver apunte.
 
 </details>
 
+<!-- 23 -->
 <details>
 <summary>
 <h2>
@@ -220,6 +243,7 @@ eficiencia (Tavistock)...ver apunte.
 
 </details>
 
+<!-- 24 -->
 <details>
 <summary>
 <h2>
@@ -231,8 +255,7 @@ principales) y retroalimentación.
 
 </details>
 
-
-
+<!-- 25 -->
 <details><summary>
 <h2>
 25. ¿Qué tipos de organización conoce? Grafique.
@@ -240,6 +263,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 26 -->
 <details><summary>
 <h2>
 26. ¿Qué es una organización sin fines de lucro? Ejemplos.
@@ -247,6 +271,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 27 -->
 <details><summary>
 <h2>
 27. ¿Qué es una organización formal? ¿Informal?
@@ -254,6 +279,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 28 -->
 <details><summary>
 <h2>
 28. ¿Qué es una organización con fines de lucro? Ejemplos.
@@ -261,6 +287,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 29 -->
 <details><summary>
 <h2>
 29. ¿Qué es una organización centralizada? Ejemplo.
@@ -268,6 +295,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 30 -->
 <details><summary>
 <h2>
 30. ¿Qué es el espacio organizacional?
@@ -275,6 +303,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 31 -->
 <details><summary>
 <h2>
 31. Defina contexto organizacional. Ejemplos.
@@ -282,6 +311,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 32 -->
 <details><summary>
 <h2>
 32. ¿Qué marco normativo tienen las organizaciones?
@@ -289,6 +319,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 33 -->
 <details><summary>
 <h2>
 33. ¿Qué se conoce como cultura organizacional? Ejemplos.
@@ -296,6 +327,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 34 -->
 <details><summary>
 <h2>
 34. De un ejemplo de planificación. Meta y Objetivo.
@@ -303,6 +335,7 @@ principales) y retroalimentación.
 </summary>
 </details>
 
+<!-- 35 -->
 <details><summary>
 <h2>
 35. Proceso de planeamiento: desarrolle el concepto de planeamiento <br>
@@ -311,8 +344,7 @@ estratégico y de planeamiento táctico. Diferencias.
 </summary>
 </details>
 
-
-
+<!-- 36 -->
 <details>
 <summary>
 <h2>
@@ -323,6 +355,7 @@ organigrama.
 
 </details>
 
+<!-- 37 -->
 <details>
 <summary>
 <h2>
@@ -333,8 +366,7 @@ planeamiento y los niveles que le comprende.
 
 </details>
 
-
-
+<!-- 38 -->
 <details>
 <summary>
 <h2>
@@ -343,6 +375,7 @@ planeamiento y los niveles que le comprende.
 </summary>
 </details>
 
+<!-- 39 -->
 <details>
 <summary>
 <h2>
@@ -351,6 +384,7 @@ planeamiento y los niveles que le comprende.
 </summary>
 </details>
 
+<!-- 40 -->
 <details>
 <summary>
 <h2>
@@ -373,6 +407,7 @@ comunicación hacia también se da, pero es limitada.
 
 </details>
 
+<!-- 41 -->
 <details>
 <summary>
 <h2>41. ¿Cuál es el concepto de poder? ¿Qué tipos de poder conoce?</h2>
@@ -436,7 +471,7 @@ utilicen este tipo de poder con cautela y consideren en su lugar enfoques <br>
 más constructivos para motivar y dirigir a su equipo.
 </details>
 
-
+<!-- 42 -->
 <details>
 <summary>
 <h2>42. ¿Cuál es el concepto de autoridad? ¿Qué tipos conoce?</h2>
@@ -501,6 +536,7 @@ departamentos.
 
 </details>
 
+<!-- 43 -->
 <details>
 <summary>
 <h2>43. Diferencia poder de autoridad y diga que significa delegar.</h2>
@@ -508,7 +544,7 @@ departamentos.
 
 </details>
 
-
+<!-- 44 -->
 <details>
 <summary>
 <h2>
