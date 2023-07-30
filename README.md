@@ -229,6 +229,20 @@ El enfoque `socio-técnico` se basa en un modelo que describe a la organización
 como constituida por 4 componentes interrelacionados:
 Tareas - Personal - Tecnología - Estructura
 ```mermaid
+graph LR
+
+A[(ESTRUCTURA)]
+B[(TAREAS)]
+C[(TECNOLOGÍA)]
+D[(PERSONAL)]
+
+A --> B
+A --> C
+A ---> D
+B --> D
+C --> D
+B ---> C 
+ 
 
 ```
 Estos elementos se agrupan en dos subsistemas:
