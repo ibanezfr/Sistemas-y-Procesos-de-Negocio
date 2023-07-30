@@ -1141,11 +1141,32 @@ relaciones de poder dentro de una organización.
 </h2>
 </summary>
 
+>La capacidad de influir en un grupo para que logren sus metas trazadas
+
+>Liderazgo gerencial, es un proceso de interacción con los seguidores, ellos
+reciben orientación, consejo, guía e influencia.
+
 El liderazgo es una forma de ejercer influencia.
 
 El liderazgo consiste en dirigir y controlar a las personas dentro de una
 organización. Los líderes motivan a sus subordinados, guían sus actividades,
 seleccionan canales de comunicación efectivos y resuelven conflictos para lograr
 los objetivos del grupo de manera eficiente y efectiva.
+
+**Liderazgo orientado a las tareas**: Los líderes con este enfoque se centran
+principalmente en supervisar y coordinar las tareas y actividades del equipo. Su
+objetivo principal es asegurarse de que el trabajo se realice de manera efectiva
+y satisfactoria. Priorizan el cumplimiento de objetivos y metas, enfocándose más
+en los resultados y la eficiencia que en las necesidades individuales de los
+empleados. Aunque la satisfacción del empleado no es ignorada, el énfasis está
+en completar el trabajo y alcanzar los resultados deseados.
+
+**Liderazgo orientado a los empleados**: Los líderes con este estilo ponen un
+mayor énfasis en la motivación y el bienestar de los empleados. Buscan
+establecer relaciones de confianza y respeto con su equipo, fomentando un
+ambiente positivo y colaborativo. Estos líderes se preocupan por el desarrollo
+personal y profesional de sus empleados, y buscan satisfacer sus necesidades y
+expectativas. Además, permiten que los empleados participen en la toma de
+decisiones, lo que puede aumentar su compromiso y sentido de pertenencia.
 
 </details>
