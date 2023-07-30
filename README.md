@@ -261,6 +261,10 @@ principales) y retroalimentación.
 25. ¿Qué tipos de organización conoce? Grafique.
 </h2>
 </summary>
+
+```mermaid
+
+```
 </details>
 
 <!-- 26 -->
