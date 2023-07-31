@@ -137,6 +137,45 @@ Entropía y Sinergía.
 </h2>
 </summary>
 
+Una organización recibe y utiliza información que le permite vivir y
+sobrevivir en el ambiente que la rodea.
+Las decisiones que toma se basan en la información disponible.
+Por eso las organizaciones crearon los `sistemas de información` qué se encargan
+de la búsqueda, colecta, almacenaje, clasificación y tratamiento de información
+importante y relevante para su funcionamiento.
+
+Un sistema de información constituye un sistema computacional capaz de
+porporcionar información como materia prima para todas las decisiones que serán
+tomadas por todos los participantes tomadores de decisión dentro de la
+organización. Constituye una combinación de sistema de computación,
+procedimientos y personas y tiene como base un banco de datos interconectados e
+integrados.
+Posee 3 componentes principales:
+ - Los `datos`
+ - El `sistema de procesamientos de datos`
+ - Los `canales de comunicación`
+
+Hay 4 tipos de estructuras de `Sistemas de Información`:
+1. **Estructura centralizada**:<br>
+La computadora central (_mainframe_) es el punto focal de todos los servicios de
+procesamiento de datos. Todas las comunicaciones pasan a través del Centro de
+Procesamiento de Datos (_CPD_) que controla todos los archivos.
+
+2. **Estructura jerarquizada**:<br>
+Distribuye la información de acuerdo a las necesidades específicas de cada nivel
+organizacinal. Está involucrado el multiprocesamiento, porque los datos se
+procesan según cada nivel jerárquico, independientemente de los demás.
+
+3. **Estructura distribuida**:<br>
+Varias computadoras separadas proveen datos a diferentes centros independientes,
+aunque interactúan entre sí.
+
+4. **Estructura descentralizada**:<br>
+Es un reparto de los recursos computacionales. Cada división o región tiene sus
+necesidades computacionales y, por lo tanto, su centro de procesamiento de datos
+específico. Proporciona la mayor seguridad y rapidez en la provisión de
+información, aunque es la más cara.
+
 </details>
 
 <!-- 14 -->
