@@ -117,6 +117,43 @@ Entropía y Sinergía.
 </h2>
 </summary>
 
+La `informática` es una disciplina que se encarga del estudio, desarrollo y
+aplicación de métodos y técnicas en el procesamiento automático de la
+información. Su objetivo principal es el tratamiento y manipulación eficiente de
+datos, permitiendo almacenar, recuperar, organizar, analizar y transmitir
+información de manera rápida y precisa.
+
+La `tecnología de la información` (TI), es el principal producto de la
+cibernética, y representa la convergencia de la computadora con la televisión y
+las telecomunicaciones. Ésta invade y transforma la vida de las organizaciones y
+de las presonas provocando profundos cambios:
+
+1. _Comprensión del espacio_:<br>
+
+Introdujo el concepto de oficina virtual o no territorial. Edificios y oficinas
+sufrieron una brutal reducción en tamaño. Los archivos electrónicos tenderán a
+acabar con el papeleo y con la necesidad de muebles. Los centros de
+procesamiento de datos (CPD) fueron reducidos a lo mínimo y descentralizados a
+través de redes integradas de microcomputadoras en las organizaciones. Surgieron
+las empresas virtuales conectadas electrónicamente.
+La miniaturización, la portabilidad y la virtualidad se transformaron en la
+nueva dimensión espacial provista por la TI.
+
+2. _Comprensión del tiempo_:<br>
+
+Las comunicaciones se hicieron móviles, flexibles, rápidas, directas y en tiempo
+real, lo que permite más tiempo de dedicación al cliente. La inmediatez es la
+nueva dimensión temporal provista por la TI.
+
+3. _Conectividad_:<br>
+
+Con la microcomputadora portátil, multimedia, trabajo en grupo, estaciones de
+trabajo, surgió el teletrabajo en que las personas trabajan juntas, a pesar de
+estar distantes físicamente. La teleconferencia y la telerreunión permiten mayor
+contacto entre las personas sin la necesidad de desplazarse físicamente o viajar
+para tener juntas o contactos personales.
+
+
 </details>
 
 <!-- 12 -->
