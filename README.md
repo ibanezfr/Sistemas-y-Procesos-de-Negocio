@@ -107,7 +107,29 @@ Entropía y Sinergía.
 </h2>
 </summary>
 
+El concepto de sistema abierto es perfectamente aplicable a la organización
+empresarial. La organización es un sistema creado por el hombre y mantiene una
+dinámica interacción cno su medio ambiente, sean clientes, proveedores, la
+comptencia, entidades sindicales, órganos gubernamentales y otros agentes
+externos. Influye sobre el medio ambiente y recibe influencia de él. Además, es
+un sistema integrado por diversas partes o unidades relacionads entre si, que
+trabajan en armonía unas con las otras, con la finalidad de alcanzar una seria
+de objetivos, tanto de la organización como de sus participantes. 
 
+El `Sistema Abierto` puede entenderse como un conjunto de partes en constante
+interacción e interdependencia, constityendo un todo sinérgico ( el todo es
+mayor que la suma de las partes), orientado hacia determinados propósitos
+(conducta teleológica orientada hacia fines) y en permanente relación de
+interdependencia con el ambiente (entendida como la doble capacidad de
+influenciar en el medio externo y ser por él influenciado).
+
+La `entropía` es la 2da Ley de la Termodinámica y se refiere a la pérdida de
+energía de los sistemas cerrados. Significa la tendencia para la pérdida de
+energía y el desvanecimiento del sistema, cuando no logra reponer sus pérdidas.
+
+La `sinergía` significa el efecto multiplicador cuando las partes del sistema
+interactúan entre sí ayudándose mutuamente. El efecto sinergístico muestra que
+el resultado del todo es mayor que la suma de las partes.
 
 </details>
 
