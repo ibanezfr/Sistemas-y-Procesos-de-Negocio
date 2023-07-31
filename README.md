@@ -127,6 +127,25 @@ Entropía y Sinergía.
 </h2>
 </summary>
 
+La `informática` es una disciplina que se encarga del estudio, desarrollo y
+aplicación de métodos y técnicas en el procesamiento automático de la
+información. Su objetivo principal es el tratamiento y manipulación eficiente de
+datos, permitiendo almacenar, recuperar, organizar, analizar y transmitir
+información de manera rápida y precisa.
+
+Con la automatización provocada por la informática muchas tareas que cabían en
+el cerebro humano, las comenzó a realizar la computadora. La computadora tiende
+a sustituir al ser humano en una gama creciente de actividades con enorme
+ventaja. Por medio de la informática, las organizaciones constituyen bancos de
+datos, sistemas de información y redes de comunicaciones integradas.
+
+Las principales consecuencias de la informática en la administración son:
+- La automatización
+- La TI
+- Sistemas de Información
+- Integración del negocio
+- _e-businnes_
+
 </details>
 
 <!-- 13 -->
