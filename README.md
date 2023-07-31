@@ -168,6 +168,8 @@ separado? ¿Se complementan?
 </h2>
 </summary>
 
+
+
 </details>
 
 <!-- 17 -->
@@ -248,7 +250,68 @@ dice que el equilibrio es dinámico porque los cambios del ambiente modifican la
 condiciones de equilibrio del sistema, llevándolo a una situación de un nuevo
 equilibrio.
 
-Ejemplos:
+Las 6 características del sistema abierto:
+1. El `comportamiento probabilístico (no determinista)`:<br>
+ya que los cambios en las variables externas que forman parte del ambiente
+pueden afectarlo. Esto significa que su comportamiento no es totalmente
+previsible debido a la complejidad y a la presencia de variables que no pueden
+ser controladas por el sistema.
+
+2. La `interdependencia de las partes`:<br>
+implica que el cambio en una de sus partes tiene un impacto en las demás. A
+diferencia de los sistemas mecánicos, en los que las partes pueden reemplazarse
+individualmente sin afectar al conjunto, en los sistemas abiertos, si una parte
+es reemplazada, todas las demás se verán afectadas en mayor o menor medida.
+
+3. La `homeostasis o equilibrio`:<br>
+Los sistemas abiertos tienen la capacidad de mantener un equilibrio interno, lo
+que significa que tienden a mantener su estado actual inalterado. Esta propiedad
+implica que el sistema busca mantener su estabilidad interna en respuesta a los
+cambios y perturbaciones externas. <br>
+`Equifinalidad`: A pesar de los cambios en el
+ambiente o dentro del sistema mismo, se logra alcanzar el mismo objetivo
+utilizando diferentes medios o caminos. Es decir, existen múltiples formas o
+estrategias para llegar al mismo resultado deseado, lo que otorga flexibilidad y
+adaptabilidad al sistema en su búsqueda de cumplir sus metas.
+
+4. La `frontera o límite`:<br>
+Son las líneas que delimitan lo que constituye el Sistema y lo que pertenece a
+su ambiente circundante. Establecer los límites de un sistema se basa en
+considerar sus objetivos, funciones, entradas y salidas. Es necesario definir
+claramente qué elementos son parte del sistema y cuáles se encuentran fuera de
+él.
+
+Para establecer los límites de un sistema, se deben responder preguntas como:
+- ¿Qué elementos son necesarios para el funcionamiento y logro de los objetivos
+  del sistema?
+- ¿Qué entradas o recursos son requeridos para su operación?
+- ¿Qué productos o resultados son generados como salidas del sistema?
+- ¿Cuáles son los elementos o influencias externas que impactan en el
+  funcionamiento del sistema?
+
+Al definir los límites de un sistema de manera adecuada, se puede entender mejor
+cómo interactúa con su ambiente, cómo se comporta y cómo logra sus metas de
+manera eficiente.
+
+5. La `morfogénesis`:<br>
+ Es una propiedad cibernética que otorga al sistema la capacidad de modificar y
+ transformar su propia estructura básica. Esto implica que el sistema puede
+ adaptarse y cambiar en respuesta a las condiciones cambiantes del entorno y a
+ las necesidades internas, permitiendo su evolución y desarrollo a lo largo del
+ tiempo. La morfogénesis es una característica clave de los sistemas abiertos,
+ ya que les permite mantener su equilibrio dinámico y lograr sus objetivos de
+ manera flexible y eficiente.
+
+6. La `resistencia`:<br>
+Se refiere a la capacidad del sistema para superar o enfrentar los disturbios
+provocados por fenómenos externos. Es el grado de defensa o vulnerabilidad que
+presenta el sistema frente a las presiones ambientales externas. Un sistema con
+alta resistencia será capaz de mantener su estabilidad y funcionamiento ante
+cambios o perturbaciones en el entorno, mientras que un sistema con baja
+resistencia será más susceptible a los impactos del ambiente y puede verse
+afectado negativamente por ellos.
+
+`Ejemplos:`
 Los sistemas abiertos son aquellos que interactúan activamente con su entorno y
 reciben entradas y salidas constantemente. Aquí tienes algunos ejemplos de
 sistemas abiertos:
