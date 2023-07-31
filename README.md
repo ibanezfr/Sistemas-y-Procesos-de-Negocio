@@ -187,6 +187,38 @@ superior a la suma de las actuaciones individuales de sus elementos.
 
 ```
 
+Los sistemas abiertos son aquellos que interactúan activamente con su entorno y
+reciben entradas y salidas constantemente. Aquí tienes algunos ejemplos de
+sistemas abiertos:
+
+El `cuerpo humano`: El cuerpo humano es un sistema abierto, ya que recibe
+alimentos y oxígeno del entorno (entradas) para obtener energía y realizar
+funciones vitales. Además, elimina desechos y CO2 al medio ambiente (salidas).
+
+Una `planta`: Una planta es un sistema abierto, ya que absorbe agua, nutrientes
+y luz solar del ambiente (entradas) para realizar la fotosíntesis y crecer. A su
+vez, libera oxígeno y desecha productos de desecho al entorno (salidas).
+
+Una `empresa`: Una empresa es un sistema abierto, ya que interactúa con
+clientes, proveedores, competidores y otros actores del entorno para obtener
+recursos (entradas) y producir bienes o servicios. Luego, vende sus productos al
+mercado y genera ingresos (salidas).
+
+Un `ecosistema`: Un ecosistema es un sistema abierto que incluye elementos
+bióticos (seres vivos) y abióticos (clima, suelo, agua). Los organismos
+interactúan con el ambiente, se alimentan, se reproducen y forman cadenas
+tróficas (entradas y salidas).
+
+Un `equipo de fútbol`: Un equipo de fútbol es un sistema abierto, ya que compite
+con otros equipos (entorno), recibe apoyo y recursos de su club o patrocinadores
+(entradas), y genera resultados y emociones en los aficionados (salidas).
+
+Un `ecosistema urbano`: Una ciudad es un sistema abierto, donde las personas
+interactúan entre sí, con empresas, instituciones y el medio ambiente. Reciben
+recursos como alimentos y energía, y generan residuos y productos de consumo
+(entradas y salidas).
+
+
 </details>
 
 <!-- 18 -->
