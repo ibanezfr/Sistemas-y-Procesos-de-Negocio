@@ -147,6 +147,35 @@ Entropía y Sinergía.
 </h2>
 </summary>
 
+1. **Entrada (Input):** Representa la primera interacción del sistema con el
+   entorno, e incluye elementos como personas, energía, materia prima e
+   información.
+
+2. **Control (Feed-forward):** Antes de ingresar al sistema, se realiza un
+   control para asegurar que la entrada cumpla con los requisitos establecidos,
+   evitando ingresos no deseados o irrestrictos de elementos (por ejemplo,
+   códigos de clientes o de artículos).
+
+3. **Salidas (Resultados):** Son las consecuencias del proceso de transformación
+   que ocurre dentro del sistema, y pueden incluir productos, beneficios,
+   información, servicios, entre otros.
+
+4. **Control de Salidas:** Se realiza una comparación de las salidas con
+   objetivos o estándares previamente establecidos, verificando si se adecúan a
+   los parámetros establecidos. En caso necesario, se ajustan mediante
+   dispositivos controlados por sensores.
+
+5. **Proceso (Throughput):** Es la actividad aplicada sobre las entradas para
+   transformarlas, agregando valor y utilidad durante el proceso.
+
+6. **Retroalimentación (Feedback):** Se utiliza para comparar las salidas con
+   objetivos o estándares, proporcionando información sobre el funcionamiento
+   del sistema y permitiendo ajustes para mantenerlo operando adecuadamente.
+
+7. **Ambiente o Contexto:** Representa el conjunto de elementos exteriores que
+   rodean, contienen e influyen en el sistema, teniendo un impacto significativo
+   en su funcionamiento y desempeño.
+
 </details>
 
 <!-- 15 -->
