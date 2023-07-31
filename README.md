@@ -153,10 +153,61 @@ Entropía y Sinergía.
 <details>
 <summary>
 <h2>
-15. Explique enfoque sistemático y enfoque analítico. ¿Se utilizan por <br>
+15. Explique enfoque sistémico y enfoque analítico. ¿Se utilizan por <br>
 separado? ¿Se complementan?
 </h2>
 </summary>
+
+>**`El enfoque analítico y el enfoque sistémico son complementarios y no
+>contrapuestos.`**
+
+**`Enfoque analítico`:** 
+- **Aisla:** Se concentra en los elementos individuales del sistema.
+- **Considera las interacciones:** Examina la naturaleza de las interacciones
+  entre los elementos.
+- **Precisión de los detalles:** Se basa en la precisión de los detalles y las
+  observaciones.
+- **Modificación variable a la vez:** Modifica una variable a la vez para
+  observar su impacto.
+- **Fenómenos reversibles:** Los fenómenos considerados son reversibles y no
+  toman en cuenta la duración.
+- **Validación experimental:** La validación de los hechos se realiza mediante
+  pruebas experimentales dentro de una teoría.
+- **Modelos precisos y detallados:** Se utilizan modelos precisos y detallados,
+  aunque pueden ser difíciles de aplicar en la acción.
+- **Efectivo para interacciones lineales y débiles:** Funciona bien cuando las
+  interacciones entre elementos son lineales y débiles.
+- **Enseñanza por disciplinas:** Conduce a un enfoque de enseñanza basado en
+  disciplinas.
+- **Acción programada en detalles:** Proporciona un marco para la acción
+  programada, considerando detalles específicos.
+- **Conocimiento de detalles, objetivos mal definidos:** Se enfoca en detalles,
+  pero puede tener objetivos poco definidos o ambiguos.
+
+**`Enfoque sistémico`:**
+- **Relaciona:** Se concentra en las interacciones entre los elementos del
+  sistema.
+- **Considera los efectos de las interacciones:** Examina cómo las interacciones
+  afectan al sistema en su conjunto.
+- **Basado en la percepción global:** Se basa en una visión global del sistema y
+  su funcionamiento.
+- **Modifica simultáneamente grupos de variables:** Realiza modificaciones en
+  grupos de variables al mismo tiempo para analizar su impacto conjunto.
+- **Integra la duración y la irreversibilidad:** Considera la duración y la
+  irreversibilidad de los fenómenos en el análisis del sistema.
+- **Validación comparativa:** La validación de los hechos se realiza comparando
+  el funcionamiento del modelo con la realidad.
+- **Modelos utilizables en la acción:** Los modelos pueden ser insuficientemente
+  rigurosos para fundamentar conocimientos, pero son útiles para tomar
+  decisiones y guiar la acción.
+- **Efectivo para interacciones no lineales y fuertes:** Funciona bien cuando
+  las interacciones entre elementos son no lineales y fuertes.
+- **Enseñanza pluridisciplinaria:** Conduce a un enfoque de enseñanza que abarca
+  varias disciplinas.
+- **Acción por objetivos:** Promueve una acción enfocada en objetivos
+  específicos.
+- **Conocimiento de los objetivos, detalles borrosos:** Se centra en los
+  objetivos, aunque los detalles pueden ser menos claros o definidos.  
 
 </details>
 
