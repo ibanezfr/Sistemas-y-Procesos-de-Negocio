@@ -96,6 +96,38 @@ Claude Shanon. Concepto de Redudancia.
 </h2>
 </summary>
 
+El `Sistema de Comunicación` consiste en 6 componentes:<br>
+1. La `fuente` significa persona, cosa o proceso que emite o provee los
+   mensajes, por medio del sistema. 
+
+2. El `transmisor` significa el proceso o equipo que opera el mensaje,
+   transmitiéndolo de la fuente al canal. El transmisor codifica el mensaje
+   provisto por la fuente para poder transmitirlo. En principio, todo transmisor
+   es un codificador de mensajes.
+
+3. El `canal` significa el equipo o espacio intermedio entre el transmisor y el
+   receptor. 
+
+4. El `receptor` significa el proceso o equipo que recibe el mensaje en el
+   canal. El receptor decodifica el mensaje para colocarlo a disposición del
+   destino. Todo receptor es un decodificador de mensajes.
+
+5. El `destino` significa la persona, cosa o proceso al que se destina el
+   mensaje en el punto final del sistema de comunicación.
+
+6. El `ruido` significa la cantidad de perturbaciones indeseables que tienden a
+   corromper y alterar, de forma imprevisible, los mensajes transmitidos. El
+   concepto de ruido sirve para denotar las perturbaciones presentes en los
+   diversos componentes del sistema, como es el caso de las perturbaciones
+   provovadas por los defectos en el transmisor o receptor. 
+
+La `redundancia` es la repetición del mensaje para que su recepción correcta se
+garantice. La redundancia introduce en el sistema de comunicación una cierta
+capacidad de eliminar el ruido y prevenir distorsiones y engaños en la recepción
+del mensaje. Por eso, cuando se quiere entrar en una sala, se toca en la puerta
+más de dos veces, o cuando se quiere comprobar el resultado de una operación
+aritmética compleja, se vuelve a hacer.
+
 </details>
 
 <!-- 10 -->
