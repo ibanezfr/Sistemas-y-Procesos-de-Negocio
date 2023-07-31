@@ -168,7 +168,118 @@ separado? ¿Se complementan?
 </h2>
 </summary>
 
+>Un sistema es un conjunto organizado de elementos interrelacionados que
+interactúan entre sí, entre sus atributos y con su ambiente conformando una
+totalidad, persiguiendo un fin determinado, y teniendo una actuación conjunta
+superior a la suma de las actuaciones individuales de sus elementos.
 
+Las 5 caracteristicas del sistema abierto están desarolladas en el punto 18.
+
+1. `Modelo de Schein`: <br>
+Una organización es la coordinación racional de actividades de un grupo de
+personas para procurar el logro de un objetivo o propósito explícito y común, a
+través de la división del trabajo y funciones, y a través de una jerarquía de
+autoridad y de responsabilidad.
+
+```mermaid
+
+```
+
+2. `Modelo de Katz y Kahn`:<br>
+Para Katz y Kahn, la organización como sistema abierto presenta las siguientes
+características:
+   1. `Importación (entrada)`: la organización recibe insumos del ambiente y
+   necesita provisiones energéticas de otras instituciones, personas o del
+   medio. Ninguna estructura social es autosuficiente.
+
+   2. `Transformación (procesamiento)`: los sistemas abiertos transforman la
+   energía disponible. La organización procesa y transforma insumos en productos
+   acabados, mano de obra, servicios, etc.
+
+   3. `Exportación (salidas)`: los sistemas abiertos exportan ciertos productos
+   hacia el medio ambiente.
+
+   4. `Los sistemas como ciclos que se repiten`: el funcionamiento de cualquier
+   sistema consiste en ciclos repetitivos de
+   importación-transformación-exportación. La importación y exportación son
+   transacciones que envuelven al sistema en ciertos sectores de su ambiente
+   inmediato, la transformación o procesamiento es un proceso contenido dentro
+   del propio sistema.
+
+   5. `Entropía negativa`: los sistemas abiertos necesitan moverse para detener el
+   proceso entrópico y reabastecerse de energía manteniendo indefinidamente su
+   estructura organizacional. A dicho proceso se le llama entropía negativa o
+   Neguentropía.
+
+   6. `Información como insumo, retroalimentación negativa y proceso de
+   codificación`: los sistemas vivos reciben como insumos, materiales
+   conteniendo energía que se transforman por el trabajo hecho. También reciben
+   información, proporcionando señales sobre el ambiente. La entrada de
+   información más simple es la retroalimentación negativa (negative feedback),
+   que permite al sistema corregir sus desvíos de la línea correcta. Las partes
+   del sistema envían información de cómo operan a un mecanismo central y
+   mantiene así la dirección correcta. Si dicha retroalimentación negativa es
+   interrumpida, el estado firme del sistema desaparece. El proceso de
+   codificación permite al sistema reaccionar selectivamente respecto a las
+   señales de información para las cuales esté programado. Es un sistema de
+   selección de entradas a través del cual, los materiales son rechazados o
+   aceptados e introducidos a su estructura.
+
+   7. `Estado firme y homeostasis dinámica`: los sistemas abiertos se
+   caracterizan por un estado firme, ya que existe un influjo continuo de
+   energía del exterior y una exportación continua de los productos del sistema.
+   La tendencia más simple del estado firme es la homeostasis, pero su principio
+   básico es la preservación del carácter del sistema, o sea, un equilibrio
+   casi-estacionario. Los sistemas reaccionan al cambio o lo anticipan por
+   intermedio del crecimiento que asimila las nuevas entradas de energía en la
+   naturaleza de sus estructuras. La homeostasis es un mecanismo regulador.
+
+   8. `Diferenciación`: la organización, como todo sistema abierto, tiende a la
+   diferenciación, o sea, a la multiplicación y elaboración de funciones, lo que
+   le trae también multiplicación de papeles y diferenciación interna.
+
+   9. `Equifinalidad`: los sistemas abiertos se caracterizan por el principio de
+   equifinalidad, o sea, un sistema puede alcanzar, por una variedad de caminos,
+   el mismo estado final, partiendo de diferentes condiciones iniciales.
+
+   10. `Límites o fronteras`: como sistema abierto, la organización presenta
+    límites o fronteras, esto es, barreras entre el ambiente y el sistema.
+    Definen el campo de acción del sistema, así como su grado de apertura. 
+
+```mermaid
+
+```
+
+3. `Modelo socio-técnico de Tavistock`:<br>
+Propone que la organización es un sistema sociotécnico estructurado sobre dos
+subsistemas:
+   1.`Sistema Técnico:`<br>
+
+ Está compuesto por la tecnología utilizada, el territorio en el que se
+ desarrolla y el tiempo en el que opera. Es responsable de la eficiencia
+ potencial del sistema, ya que abarca las tareas que serán desempeñadas, las
+ instalaciones físicas, los equipos e instrumentos utilizados, las exigencias de
+ la tarea, las utilidades y técnicas operacionales, el ambiente físico y la
+ forma en cómo están acomodados. Además, engloba la manera en que se llevan a
+ cabo las operaciones del sistema. En conjunto, estos elementos contribuyen a
+ mejorar la eficiencia y el rendimiento del sistema técnico en el logro de sus
+ objetivos.
+
+   2. `Sistema Social:`<br>
+
+ Es responsable de transformar la eficiencia potencial en eficiencia real. Está
+ compuesto por las personas que forman parte del sistema, considerando tanto sus
+ características físicas como psicológicas. Incluye también las relaciones
+ sociales entre los individuos encargados de la ejecución de la tarea, así como
+ las exigencias que surgen de la organización formal e informal en la situación
+ de trabajo. En conjunto, estos elementos sociales juegan un papel fundamental
+ en convertir el potencial de eficiencia del sistema técnico en resultados
+ reales y efectivos, permitiendo una ejecución más efectiva de las tareas y
+ alcanzar los objetivos establecidos.
+
+```mermaid
+
+```
 
 </details>
 
