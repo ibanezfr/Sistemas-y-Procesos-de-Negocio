@@ -107,6 +107,8 @@ Entropía y Sinergía.
 </h2>
 </summary>
 
+
+
 </details>
 
 <!-- 11 -->
@@ -163,6 +165,9 @@ para tener juntas o contactos personales.
 12. ¿Qué es la informática? ¿Cómo incide en la Administración?
 </h2>
 </summary>
+
+Es el área que cuida de la recolección, procesamiento, acumulación y
+distribución de la información.
 
 La `informática` es una disciplina que se encarga del estudio, desarrollo y
 aplicación de métodos y técnicas en el procesamiento automático de la
