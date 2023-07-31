@@ -410,6 +410,10 @@ subsistemas:
 </h2>
 </summary>
 
+>El sistema es un todo unitario organizado, compuesto por dos o más partes,
+componentes o subsistemas interdependientes y delineado por límities
+interdependientes de su suprasistema ambiente.
+
 >Un sistema es un conjunto organizado de elementos interrelacionados que
 interactúan entre sí, entre sus atributos y con su ambiente conformando una
 totalidad, persiguiendo un fin determinado, y teniendo una actuación conjunta
