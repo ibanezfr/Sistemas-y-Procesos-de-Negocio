@@ -72,6 +72,18 @@ universos particulares de las ciencias, de forma que los progresos alcanzados en
 una ciencia pueden beneficiar a las demás. Se trata de una teoría
 interdisciplinaria.
 
+`Entropía` es la segunda ley de la termodinámica y se refiere a la pérdida de
+energía de los sistemas cerrados. Significa la tendencia para la pérdida de
+energía y el desvanecimiento del sistema, cuando no logra reponer sus pérdidas.
+
+`Homeostasis` es la tendencia del sistema de mantener su equilibrio interno a
+pesar de las perturbaciones ambientales. Lo mismo que autorregulación o estado
+firme. Involucra equilibrio, permanencia y estabilidad.
+
+`Sinergia` significa el efecto multiplicador cuando las partes del sistema
+interectúan entre sí ayudándose mutuamente. El efecto sinergístico muestra que
+el resultado del todo es mayor que la suma de las partes.
+
 </details>
 
 <!-- 3 -->
