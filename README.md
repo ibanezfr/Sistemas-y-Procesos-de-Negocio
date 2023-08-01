@@ -212,6 +212,9 @@ comunicación.
 </h2>
 </summary>
 
+El sistema de comunicación tratado por la teoría de las informaciones consiste
+en seis componentes: fuente, transmisor, canal, receptor, destino y ruido.
+
 </details>
 
 <!-- 8 -->
