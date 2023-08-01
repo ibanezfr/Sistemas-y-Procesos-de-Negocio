@@ -94,6 +94,18 @@ el resultado del todo es mayor que la suma de las partes.
 </h2>
 </summary>
 
+Katz y Kahn desarrollaron un modelo organización, en el cual la organización
+presenta características típicas de un sistema abierto.
+
+Las `organizaciones` constituyen una clase de sistemas sociales, los cuales
+constituyen una clase de sistemas abiertos. Como tal, las organizaciones tienen
+propiedades peculiares y comparten las propiedades de los sistemas abiertos,
+como entropía negativa, retroalimentación, homeostasis, diferenciación y
+equifinalidad. Los sistemas abietos no están en reposo y ni siquiera son
+estáticos, pues tienden a la elaboración y a la diferenciación.
+
+<img src="./assets/img/grafico-sist-abierto.webp">
+
 </details>
 
 <!-- 4 -->
