@@ -13,6 +13,12 @@ parámetros de sistema, grafique.
 </h2>
 </summary>
 
+- **Definición Profe Andrea**:
+>Un sistema es un conjunto organizado de elementos interrelacionados que
+>interactúan entre sí, entre sus atributos y con su ambiente conformando una
+>totalidad, persiguiendo un fin determinado, y teniendo una actuación conjunta
+>superior a la suma de las actuaciones individuales de sus elementos. 
+
 - El `sistema` es un conjunto de partes coordinadas y en interacción para
 alacanzarun conjunto de objetivos.
 
@@ -59,6 +65,12 @@ sistemas más pequeños dentro de sistemas mayores.
 2. Qué es la TGS. Defina: Sistema, entropía, homeostasis y sinergía.
 </h2>
 </summary>
+
+`Teoría General de Sistemas`:<br>
+Es la teoría que busca los principios unificadores capaces de interconectar los
+universos particulares de las ciencias, de forma que los progresos alcanzados en
+una ciencia pueden beneficiar a las demás. Se trata de una teoría
+interdisciplinaria.
 
 </details>
 
