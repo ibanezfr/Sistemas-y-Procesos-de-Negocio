@@ -129,6 +129,17 @@ mindmap
 </h2>
 </summary>
 
+La `cibernética` es una teoría de los sistemas de control basada en la
+comunicación (transferencia de información) entre sistema y medio circundante, y
+dentro del sistema, y en el control (retroalimentación) del funcionamiento del
+sistema en consideración al medio.
+
+La `retroalimentación` en el sistema nervioso. El sistema nervioso funciona a
+través de procesos circulares de ida y vuelta (retroalimentación) de
+comunicación, que parten desde ese punto hasta los músculos y regresan por medio
+de los órganos de los sentidos. La retroalimentación confirma si el objetivo se
+cumplió, lo que es fundamental para el equilibrio del sistema.
+
 </details>
 
 <!-- 5 -->
