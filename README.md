@@ -159,7 +159,24 @@ cumplió, lo que es fundamental para el equilibrio del sistema.
 </h2>
 </summary>
 
+Un Modelo es una representación simplificada de la realidad.
+En todo modelo se muestran las relaciones existentes entre las variables que son
+relevantes y de interés para el análisis de sistemas.
 
+El modelo sirve para: <br>
+- Pensar y repensar lo hecho.
+- Puede utilizarse como herramienta de predicción del comportamiento del
+  sistema.
+- Permite controlar mejor los procesos reales.
+- El aprendizaje de los fenómenos involucrados en un sistema.
+
+Ejemplos:
+- El plano de un edificio
+- Una fórmula matemática
+- Una ley o estatuto
+- Una estatua
+- Un teorema
+- Un programa de computación
 
 </details>
 
