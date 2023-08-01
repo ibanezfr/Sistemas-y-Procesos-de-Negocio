@@ -72,6 +72,15 @@ universos particulares de las ciencias, de forma que los progresos alcanzados en
 una ciencia pueden beneficiar a las demás. Se trata de una teoría
 interdisciplinaria.
 
+<h2>Premisas básicas:</h2>
+   1. Los sistemas existen dentro de sistemas, cada sistema se constituye en
+      subsistemas y pertenece a un sistema mayor.
+   2. Los sistemas son abiertos, cada sistema existe dentro de un medioambiente
+      constituido por otros sistmas.
+   3. Las funciones de un sistema dependen de su estructura, cada sistema tiene
+      su finalidad y objetivo que establece su rol en el intercambio con los
+      sistemas del medioambiente.
+
 `Entropía` es la segunda ley de la termodinámica y se refiere a la pérdida de
 energía de los sistemas cerrados. Significa la tendencia para la pérdida de
 energía y el desvanecimiento del sistema, cuando no logra reponer sus pérdidas.
@@ -149,6 +158,8 @@ cumplió, lo que es fundamental para el equilibrio del sistema.
 5. ¿Qué es un modelo? ¿para que se utilizan? De ejemplos.
 </h2>
 </summary>
+
+
 
 </details>
 
