@@ -225,7 +225,17 @@ en seis componentes: fuente, transmisor, canal, receptor, destino y ruido.
 concreto: Teléfono, PC, etc.
 </h2>
 </summary>
+<h3>Sistemas de comunicaciones</h3>
 
+
+|**COMPONENTES**|**SISTEMA TELEFÓNICO**|**PUERTA AUTOMÁTICA**|**PROGRAMA DE TV**|
+|  :----  | :----: | :----: | :----: |
+|**FUENTE**|Voz humana |Afluencia de personas interrumpiendo<br>un rayo de luz |Palcos y actores |
+|**TRANSMISOR**|Aparto telefónico|Céluca fotoeléctrica y circuitos auxiliares|Cámara, transmisores y antenas|
+|**CANAL**|Alambre conductor que conecta<br> un aparato a otro |Alambres conduciendo al solenoide<br> que mueve la puerta|Espacio libre|
+|**RECEPTOR**|El otro aparato telefónico |Mecanismo selenoidal |Antena y aparto de TV|
+|**DESTINO**|Oido humano|Puerta|Televidente|
+|**RUIDO**|Estática, interferencia, línea<br> cruzada, ruidos|Mal funcionamiento de algunos<br> de los dispositivos|Estática interferencia, mal<br>funcionamiento de algunos<br>de los componentes|
 
 
 </details>
