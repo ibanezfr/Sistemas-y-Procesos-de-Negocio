@@ -104,7 +104,20 @@ como entropía negativa, retroalimentación, homeostasis, diferenciación y
 equifinalidad. Los sistemas abietos no están en reposo y ni siquiera son
 estáticos, pues tienden a la elaboración y a la diferenciación.
 
-<img src="./assets/img/grafico-sist-abierto.webp">
+```mermaid
+mindmap
+  root((Sistema Abierto))
+    Importación
+    Transformación
+    Exportación
+    Entropía_negativa
+    Información_como_insumo
+    Homeostasis
+    Diferenciación
+    Equifinalidad
+    Límites  
+   
+```
 
 </details>
 
