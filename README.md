@@ -13,6 +13,43 @@ parámetros de sistema, grafique.
 </h2>
 </summary>
 
+- El `sistema` es un conjunto de partes coordinadas y en interacción para
+alacanzarun conjunto de objetivos.
+
+- Un `sistema` es un grupo de partes y objetos que interactúan y que forman un
+  todo o que se encuentran bajo la influencia de fuerzas en alguna relación
+  definida.
+
+- `Subsistema`:<br>
+En general se puede afirmar que cada una de las partes que encierra un sistema
+puede ser considerada como subsistema, es decir, un conjunto de partes e
+interrelaciones que se encuentra estructuralmente y funcionalmente, dentro de un
+sistema mayor,y que posee sus propias características. Asi los `subsistemas` son
+sistemas más pequeños dentro de sistemas mayores.
+
+- En general, las principales características de un sistema abierto, son su
+  corriente de entrada, su proceso de conversión, su corriente de salida, y como
+  elemento de control, la comunicación de retroalimentación.
+   - La `corriente de entrada` transporta recursos materiales, financieros,
+     humanos e información para el funcionamiento y mantención del sistema.
+
+   - `Proceso de conversión`: Un sistema tiene un propósito o un objetivo. Todo
+     sistema realiza alguna función, la engería que importan sirve para mover y
+     hacer actuar sus mecanismos particulares con el fin de alcanzar los
+     objetivos para los cuales fueron diseñados. Los sistemas convierten o
+     transforma la energía que importan en otro tipo de energía, que representa
+     la "producción" característica del sistema particular.
+
+   - La `corriente de salida` equivale a la "exportación" que el sistema hace al
+     medio. 
+   
+   - La `comunicación de retroalimentación` es la información que indica cómo lo
+     está haciendo el sistema en la búsqueda de su objetivo, y que es
+     introducido nuevamente al sistema con el fin de que se lleven a cabo las
+     correcciones necesarias para lograr su objetivo (retroalimentación). Es un
+     mecanismo de control que posee el sistema para asegurar el logro de su
+     meta.
+
 </details>
 
 <!-- 2 -->
@@ -84,6 +121,8 @@ comunicación.
 concreto: Teléfono, PC, etc.
 </h2>
 </summary>
+
+
 
 </details>
 
