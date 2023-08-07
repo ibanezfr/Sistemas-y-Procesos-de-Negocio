@@ -69,14 +69,17 @@ sistemas más pequeños dentro de sistemas mayores.
 `Teoría General de Sistemas`:<br>
 Es la teoría que busca los principios unificadores capaces de interconectar los
 universos particulares de las ciencias, de forma que los progresos alcanzados en
-una ciencia pueden beneficiar a las demás. Se trata de una teoría
+una ciencia puedan beneficiar a las demás. Se trata de una teoría
 interdisciplinaria.
 
 <h2>Premisas básicas:</h2>
+
    1. Los sistemas existen dentro de sistemas, cada sistema se constituye en
       subsistemas y pertenece a un sistema mayor.
+
    2. Los sistemas son abiertos, cada sistema existe dentro de un medioambiente
       constituido por otros sistmas.
+      
    3. Las funciones de un sistema dependen de su estructura, cada sistema tiene
       su finalidad y objetivo que establece su rol en el intercambio con los
       sistemas del medioambiente.
