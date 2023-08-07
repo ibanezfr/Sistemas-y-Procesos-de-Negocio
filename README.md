@@ -20,7 +20,7 @@ parámetros de sistema, grafique.
 >superior a la suma de las actuaciones individuales de sus elementos. 
 
 - El `sistema` es un conjunto de partes coordinadas y en interacción para
-alacanzarun conjunto de objetivos.
+alacanzar un conjunto de objetivos.
 
 - Un `sistema` es un grupo de partes y objetos que interactúan y que forman un
   todo o que se encuentran bajo la influencia de fuerzas en alguna relación
