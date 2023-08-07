@@ -338,7 +338,7 @@ información de manera rápida y precisa.
 La `tecnología de la información` (TI), es el principal producto de la
 cibernética, y representa la convergencia de la computadora con la televisión y
 las telecomunicaciones. Ésta invade y transforma la vida de las organizaciones y
-de las presonas provocando profundos cambios:
+de las personas provocando profundos cambios:
 
 1. _Comprensión del espacio_:<br>
 
