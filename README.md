@@ -79,7 +79,7 @@ interdisciplinaria.
 
    2. Los sistemas son abiertos, cada sistema existe dentro de un medioambiente
       constituido por otros sistmas.
-      
+
    3. Las funciones de un sistema dependen de su estructura, cada sistema tiene
       su finalidad y objetivo que establece su rol en el intercambio con los
       sistemas del medioambiente.
@@ -106,14 +106,14 @@ el resultado del todo es mayor que la suma de las partes.
 </h2>
 </summary>
 
-Katz y Kahn desarrollaron un modelo organización, en el cual la organización
-presenta características típicas de un sistema abierto.
+`Katz` y `Kahn` desarrollaron un modelo de organización, en el cual la 
+organización presenta características típicas de un sistema abierto.
 
 Las `organizaciones` constituyen una clase de sistemas sociales, los cuales
 constituyen una clase de sistemas abiertos. Como tal, las organizaciones tienen
 propiedades peculiares y comparten las propiedades de los sistemas abiertos,
-como entropía negativa, retroalimentación, homeostasis, diferenciación y
-equifinalidad. Los sistemas abietos no están en reposo y ni siquiera son
+como `entropía negativa`, `retroalimentación`, `homeostasis`, `diferenciación` y
+`equifinalidad`. Los sistemas abiertos no están en reposo y ni siquiera son
 estáticos, pues tienden a la elaboración y a la diferenciación.
 
 ```mermaid
