@@ -191,12 +191,12 @@ Ejemplos:
 </h2>
 </summary>
 
-- `El **DATO** es un registro o anotación de un evento u ocurrencia.` Un banco 
+- `El `**DATO**` es un registro o anotación de un evento u ocurrencia.` Un banco 
   de datos, por ejemplo, es un medio para acumular y almacenar conjuntos de 
   datos para que sean posteriormente combinados y procesados. Cuando un conjunto
   de datos posee un significado, tenemos una información.
 
-- `La **INFORMACIÓN** es un conjunto de datos con un significado, o sea, que`
+- `La `**INFORMACIÓN**` es un conjunto de datos con un significado, o sea, que`
   `reduce la la incertidumbre o que aumenta el conocimiento de algo`. La
   información es un mensaje con significado en un determinado contexto,
   disponible para uso inmediato y que proporciona orientación a las acciones por
