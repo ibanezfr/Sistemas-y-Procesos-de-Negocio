@@ -297,11 +297,11 @@ Entropía y Sinergía.
 
 El concepto de sistema abierto es perfectamente aplicable a la organización
 empresarial. La organización es un sistema creado por el hombre y mantiene una
-dinámica interacción cno su medio ambiente, sean clientes, proveedores, la
-comptencia, entidades sindicales, órganos gubernamentales y otros agentes
+dinámica interacción con su medio ambiente, sean clientes, proveedores, la
+competencia, entidades sindicales, órganos gubernamentales y otros agentes
 externos. Influye sobre el medio ambiente y recibe influencia de él. Además, es
 un sistema integrado por diversas partes o unidades relacionads entre si, que
-trabajan en armonía unas con las otras, con la finalidad de alcanzar una seria
+trabajan en armonía unas con las otras, con la finalidad de alcanzar una serie
 de objetivos, tanto de la organización como de sus participantes. 
 
 El `Sistema Abierto` puede entenderse como un conjunto de partes en constante
