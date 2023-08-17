@@ -816,7 +816,7 @@ cambios o perturbaciones en el entorno, mientras que un sistema con baja
 resistencia será más susceptible a los impactos del ambiente y puede verse
 afectado negativamente por ellos.
 
-`Ejemplos:`
+`Ejemplos:`<br>
 Los sistemas abiertos son aquellos que interactúan activamente con su entorno y
 reciben entradas y salidas constantemente. Aquí tienes algunos ejemplos de
 sistemas abiertos:
