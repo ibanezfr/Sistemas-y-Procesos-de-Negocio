@@ -15,6 +15,12 @@
  </h4>
  </summary>
 
+### Es una forma concreta de la toma de decisiones que aborda el futuro  específico que los gerentes quieren para sus organizaciones.
+
+Incluye la definición de metas, el establecimiento de estrategias y el 
+desarrollo de planes para coordinar actividades.
+
+
 Planear es proyectar un futuro deseado y los medios efectivos para alcanzarlo.
 (Russell Ackoff)
 
@@ -50,7 +56,19 @@ las decisiones que ponen en práctica esos objetivos.
  2. Describa y diferencie: <b>Planeamiento estretégico, táctico y operativo</b>
  </h4>
  </summary>
- Algo talgoa más
+ El Planeamiento Estratégico es diseñado por los gerentes de niveles altos y
+ definen las metas generales de la Organización. (Gerentes altos y medios)
+ Tienen un horizonte de tiempo de varios años. Afectan a una amplia gama de
+ actividades de la Org. Está redactado en términos simples y genéricos.
+
+
+El Planeamiento Operativo, contiene los detalles para poner en practica o 
+implantar los planes estratégicos. (Gerentes medios y de primera línea)
+Tiene un horizonte de tiempo de 1 año en general. Posee un alcance más estrecho
+o limitado. Posee un grado de detalle mucho mayor.
+
+
+
  </details>
 
 ---
@@ -62,7 +80,15 @@ las decisiones que ponen en práctica esos objetivos.
  3. Diga los cenceptos de MISIÓN, Visión y Valores, de ejemplos.
  </h4>
  </summary>
- Algo talgoa más
+ La Misión es la principal razón de existir de una organización. Es identificar
+ la función que cumple en la sociedad, y además, su carácter y su filosofía 
+ básica.
+
+ La misión incluye:
+ * La definición del negocio.
+ * La Visión, que quiere llegar a ser en un futuro. (Horizonte utópico)
+ * Valores, principios éticos y filosóficos que guían a la organización y que,
+ en suma, van moldeando la cultura de una organización.
  </details>
 
 ---
@@ -74,7 +100,9 @@ las decisiones que ponen en práctica esos objetivos.
  4. ¿Qué se conoce como Cultura Organizacional? Ejemplifique.
  </h4>
  </summary>
- Algo talgoa más
+ Es un conjunto de valores, creencias, normas, lenguajes, conocimientos, códigos
+ de comportamiento, formas de actuar, que son conocidos y compartidos por sus
+ miembros y que además, le son propios he identificatorios.
  </details>
 
 ---
@@ -134,7 +162,13 @@ las decisiones que ponen en práctica esos objetivos.
  9. ¿Qué expresa un organigrama?
  </h4>
  </summary>
- Algo talgoa más
+
+ Los organigramas son representaciones visuales de la estructura de una 
+ organización. Transmiten la jerarquía, las relaciones y la distribución de 
+ responsabilidades entre los diferentes roles o departamentos. Son útiles para
+ entender cómo se organiza una empresa, quién reporta a quién y cómo fluye la
+ comunicación dentro de la organización.
+
  </details>
 
 ---
@@ -146,7 +180,24 @@ las decisiones que ponen en práctica esos objetivos.
  10. ¿Cuáles son los roles gerenciales según Mintzberg?
  </h4>
  </summary>
- Algo talgoa más
+ 
+Tenemos 3 grupos de roles gerenciales: 
+- Interpersonales
+    - Decorativo
+    - Líder
+    - Enlace
+
+- Informativos
+    - Inspector
+    - Difusor
+    - Vocero
+
+- De decisión 
+    - Emprendedor
+    - Moderador de disturbios
+    - Asignador de recursos
+    - Negociador
+
  </details>
 
 ---
@@ -158,7 +209,12 @@ las decisiones que ponen en práctica esos objetivos.
  11. ¿Qué habilidades deben desarrollar los gerentes?
  </h4>
  </summary>
- Algo talgoa más
+
+  Deben desarrollar habilidades técnicas, que permiten aplicar el conocimiento
+  especializado o experiencia.
+  Y habilidades humanas, permiten trabajar con otros, comprenderlos y
+  motivarlos.
+
  </details>
 
 ---
@@ -170,7 +226,8 @@ las decisiones que ponen en práctica esos objetivos.
  12. Explique el proceso de control.
  </h4>
  </summary>
- Algo talgoa más
+
+
  </details>
 
 ---
@@ -182,7 +239,11 @@ las decisiones que ponen en práctica esos objetivos.
  13. De una definición de control.
  </h4>
  </summary>
- Algo talgoa más
+
+Control es el proceso a través del cual se comparan los resultados de las
+acciones implementadas en el proceso de gestión, con las metas fijadas en el
+proceso de Planeamiento. 
+
  </details>
 
 ---
